@@ -29,11 +29,16 @@
 ||acgn.cc^
 ||mr6.cc^
 ||memes.tw^
-||taptap
+||taptap.io^
+||taptap.cn^
 ||ptthito.com^
 ||ppfocus.com^
 ||padpadblog.com^
+||bangumi.tv^
+||people.com.cn^
 ||gamme.com.tw^
+||ngabbs.com^
+||taronews.tw^
 ||jjwxc.net^
 ||178.com
 ||gcores.com^
