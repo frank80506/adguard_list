@@ -4,3 +4,9 @@
 ||bilibili.com^
 ||threads.net^
 ||storm.mg^
+||line.me^
+||udn.com^
+||nownews.com^
+||taiwan.cn^
+||sohu.com^
+||fjsen.com^
