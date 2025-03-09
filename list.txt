@@ -1,2 +1,4 @@
-www.ptt.cc
-www.pttweb.cc
+||ptt.cc^
+||pttweb.cc^
+||sofun.com.tw^
+||bilibili.com^
