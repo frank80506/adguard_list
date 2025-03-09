@@ -2,3 +2,5 @@
 ||pttweb.cc^
 ||sofun.com.tw^
 ||bilibili.com^
+||threads.net^
+||storm.mg^
