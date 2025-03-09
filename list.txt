@@ -29,7 +29,7 @@
 ||acgn.cc^
 ||mr6.cc^
 ||memes.tw^
-||taptap
+||taptap^
 ||ptthito.com^
 ||ppfocus.com^
 ||padpadblog.com^
