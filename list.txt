@@ -1,3 +1,4 @@
+
 ||163.com^
 ||178.com^
 ||360.cn^
@@ -48,6 +49,7 @@
 ||douban.com^
 ||douyin.com^
 ||epochtimes.com^
+||ettoday.net^
 ||fjsen.com^
 ||ftvnews.com.tw^
 ||funsnap.com^
@@ -66,6 +68,7 @@
 ||ifeng.com^
 ||ifuun.com^
 ||iriam.com^
+||itheat.com^
 ||jjwxc.net^
 ||kanliao7.org^
 ||kknews.cc^
@@ -74,6 +77,7 @@
 ||ltn.com.tw^
 ||managertoday.com.tw^
 ||memes.tw^
+||moegirl.*^
 ||moegirl.icu^
 ||moegirl.org.cn^
 ||moegirl.org^
@@ -88,6 +92,7 @@
 ||now.com^
 ||nownews.com^
 ||ntdtv.com^
+||nyaa.*^
 ||nyaa.si
 ||on.cc^
 ||padpadblog.com^
@@ -119,6 +124,7 @@
 ||stdaily.com^
 ||storm.mg^
 ||taiwan.cn^
+||taptap.*^
 ||taptap.cn^
 ||taptap.com^
 ||taptap.io^
@@ -139,9 +145,7 @@
 ||upmedia.mg^
 ||v2ex.com^
 ||waou.com.mo^
-||worldjournal.com^
-||worldjournal.net^
-||worldnews.net.ph^
+||worldjournal.*^
 ||wswebcdn.com^
 ||wswebpic.com^
 ||xiaohongshu.com^
@@ -151,5 +155,5 @@
 ||youxi.com^
 ||yuanwang.com.tw^
 ||yystv.cn^
-||zhihu.com^
+||zhihu.*^
 ||zxwt.com.cn^
