@@ -5,6 +5,7 @@
 ||12371.cn^
 ||123av.com^
 ||141jj.com^
+||141tube.com^
 ||155384.co^
 ||163.com^
 ||177picyy.com^
@@ -50,11 +51,13 @@
 ||6parkbbs.com^
 ||6parknews.com^
 ||78gameclub.com^
+||7car.tw^
 ||7qile.com^
 ||81.cn^
 ||8591.com.tw^
 ||85po.com^
 ||881903.com^
+||8world.com^
 ||91danji.com^
 ||91porn.best^
 ||94ero.com^
@@ -91,6 +94,7 @@
 ||amiami.com^
 ||amnesty.tw^
 ||anfuns.cc^
+||anima.com.tw^
 ||animanga.fandom.com^
 ||animate-onlineshop.jp^
 ||anime-erodouga.net^
@@ -112,15 +116,18 @@
 ||assistirhentai.com^
 ||atmovies.com.tw^
 ||atvnewsonline.com^
+||av01.tv^
 ||avcnn.com^
 ||avhd101.com^
 ||avjoy.me^
+||avribao.com^
 ||avsubthai.me^
 ||avtime.tv^
 ||avwto.com^
 ||awwrated.com^
 ||bad.news^
 ||baidu.*^
+||baihubi.com^
 ||baike.com^
 ||baitme.com^
 ||baldivian.com^
@@ -153,6 +160,7 @@
 ||bnext.com.tw^
 ||bo6s.com.tw^
 ||bonecollection.com^
+||boniu123.cc^
 ||boomtv.tw^
 ||booth.pm^
 ||boti.net^
@@ -163,6 +171,7 @@
 ||brettspizzeria.com^
 ||bridgepub.tw^
 ||businessweekly.com.tw^
+||buyee.jp^
 ||buzzorange.com^
 ||camiko.org^
 ||carousell.com.hk^
@@ -205,13 +214,17 @@
 ||cmoney.tw^
 ||cn.wsj.com^
 ||cna.com.tw^
+||cnnb.com.cn^
 ||cnpeoplenews.com^
 ||cnyes.com^
+||co818.com^
 ||cofacts.tw^
 ||colamanga.com^
 ||cometbbs.com^
 ||comick.io^
 ||commonhealth.com.tw^
+||cookpad.com^
+||cool18.com^
 ||cool3c.com^
 ||coolloud.org.tw^
 ||coskaomission.org^
@@ -283,6 +296,7 @@
 ||dq.yam.com^
 ||dramaqueen.com.tw^
 ||drug-frees.com^
+||dsyiren.com^
 ||dtf.ru^
 ||duotegame.com^
 ||dve.idv.tw^
@@ -358,6 +372,7 @@
 ||gamme.com.tw^
 ||ganzi.com.tw^
 ||gapple3c.net^
+||gcbt.net^
 ||gcores.com^
 ||gdlmg.net^
 ||getchu.com^
@@ -461,6 +476,7 @@
 ||imyfone.com^
 ||inewsdb.com^
 ||inf.news^
+||info.51.ca^
 ||inmediahk.net^
 ||investor.com.tw^
 ||ioh.tw^
@@ -499,6 +515,7 @@
 ||jjwxc.net^
 ||jkforum.net^
 ||jkglz.com^
+||jmaygirls.com^
 ||jogeek.com^
 ||js-adways.com.tw^
 ||juejin.cn^
@@ -567,6 +584,7 @@
 ||liuli.ooo^
 ||llwiki.org^
 ||logos.com.hk^
+||love-68.com^
 ||loveh.org^
 ||ltn.com.tw^
 ||luke54.org^
@@ -724,6 +742,7 @@
 ||org.cn^
 ||otakumode.com^
 ||otomad.wiki^
+||overdope.com^
 ||owlting.com^
 ||pad.fandom.com^
 ||padpadblog.com^
@@ -745,6 +764,7 @@
 ||peoplemedia.tw^
 ||peoplenews.tw^
 ||peopo.org^
+||pfpf8.com^
 ||philomedium.com^
 ||phiphicake.blogspot.com^
 ||piaotia.com^
@@ -821,6 +841,7 @@
 ||sai.com.tw^
 ||saiganak.com^
 ||sallyq.com.tw^
+||sanlier.blog^
 ||saraba1st.com^
 ||scientology-fso.org^
 ||scientology-kaohsiung.org^
@@ -831,10 +852,12 @@
 ||scntaoyuan.org^
 ||sdsb.fandom.com^
 ||secretchina.com^
+||seehua.com^
 ||sehuatang-net.votted.net^
 ||sehuatang.org^
 ||sehuatang98.net^
 ||sejie80.com^
+||sese277.info^
 ||seselah.com^
 ||setn.com^
 ||shangfenbao.com^
@@ -858,9 +881,11 @@
 ||sohucs.com
 ||sosad.fun^
 ||sosol.com.cn^
+||sou.com.tw^
 ||soundofhope.org^
 ||speedytrendsb.com^
 ||sportsv.net^
+||sputniknews.cn^
 ||ssp.url.tw^
 ||sspai.com^
 ||sstm.moe^
@@ -880,6 +905,7 @@
 ||sugtao4423.xyz^
 ||sundaymore.com^
 ||suruga-ya.*^
+||sydneytoday.com^
 ||syogames.com^
 ||szhgh.com^
 ||taicike.com^
@@ -934,6 +960,7 @@
 ||travelerluxe.com^
 ||trillionstage.jp^
 ||truth2022.com.tw^
+||tsrus.cn^
 ||tsunkit.net^
 ||tukuppt.com^
 ||turnnewsapp.com^
@@ -941,6 +968,7 @@
 ||tvbs.com.tw^
 ||tvs.com.tw^
 ||tvshowboxtw.com^
+||tw-av.com^
 ||twitch.tv^
 ||twitter.com^
 ||u-car.com.tw^
@@ -990,9 +1018,11 @@
 ||watchmedia01.com^
 ||watchout.tw^
 ||wattbrother.com^
+||wattpad.com^
 ||wazaiii.com^
 ||wazhuan.cn^
 ||webtoons.com^
+||weiposhop.com.tw^
 ||wen8health.com^
 ||wensgoodlife.com^
 ||wenweipo.com^
@@ -1019,6 +1049,7 @@
 ||wswebcdn.com^
 ||wswebpic.com^
 ||wuke.app^
+||wwofqtmnr.life^
 ||wyzxwk.com^
 ||xd.com
 ||xfastest.com^
@@ -1054,6 +1085,7 @@
 ||ygyxc.com^
 ||yiwulife.tw^
 ||ymgal.games^
+||yongyuandecaogen.com^
 ||yoooyo.com^
 ||yougengbaike.com^
 ||youkai-mago.com^
@@ -1062,6 +1094,7 @@
 ||youxi.com^
 ||yuanquan.tw^
 ||yuanwang.com.tw^
+||yuewaiwei.net^
 ||yugioh-card-cn.com^
 ||yugioh-card.com^
 ||yugioh.fandom.com^
@@ -1076,6 +1109,7 @@
 ||zeczec.com^
 ||zekamashi.net^
 ||zen1976.com^
+||zenmarket.jp^
 ||zfsya.com^
 ||zgzl.net^
 ||zhentube.com^
