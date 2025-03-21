@@ -1,4 +1,5 @@
 
+biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag__0y_t_)
 ||*.news.yahoo.com^
 ||*.stock.yahoo.com^
 ||114514.cn^
@@ -45,6 +46,7 @@
 ||5278tea.com^
 ||52av.one^
 ||53tv.net^
+||586.com.tw^
 ||634.tv^
 ||69shuba.com^
 ||69shuba.cx^
@@ -60,6 +62,7 @@
 ||8591.com.tw^
 ||85po.com^
 ||881903.com^
+||8comic.com^
 ||8world.com^
 ||91danji.com^
 ||91porn.best^
@@ -105,6 +108,7 @@
 ||anilist.co^
 ||anima.com.tw^
 ||animanga.fandom.com^
+||animate-onlineshop.com.tw^
 ||animate-onlineshop.jp^
 ||anime-erodouga.net^
 ||anime-h.net^
@@ -144,12 +148,14 @@
 ||bandori.fandom.com^
 ||bangumi.tv^
 ||bannedbook.org^
+||banxia.cc^
 ||baozimh.com^
 ||bastillepost.com^
 ||battlecatsinfo.github.io^
 ||battlenet.com.cn^
 ||bau.com.hk^
 ||bauhk.com^
+||bc3ts.net^
 ||beanfun.com^
 ||bear20.com^
 ||beast-kingdom.com.tw^
@@ -216,6 +222,7 @@
 ||chinesedaily.com^
 ||chobit.cc^
 ||chuckchu.com.tw^
+||cio.com.tw^
 ||circlewelife.com^
 ||citizenedu.tw^
 ||civitai.com^
@@ -296,6 +303,7 @@
 ||dk95.com^
 ||dlsite.com^
 ||dm5.cn
+||dm9.com^
 ||dmand5.com^
 ||dmsmh.com.tw^
 ||dongludi.top^
@@ -369,6 +377,7 @@
 ||fjsen.com^
 ||flipermag.com^
 ||flw.ph^
+||focusnews.com.tw^
 ||forlandingpage.vercel.app^
 ||fountmedia.io^
 ||freddy-chen.com^
@@ -416,6 +425,7 @@
 ||girlstyle.com^
 ||giveaway.su^
 ||giveaways.su^
+||gk-nation.waca.tw^
 ||gmw.cn^
 ||gofreebooks.com.tw^
 ||gogalgame.com^
@@ -544,6 +554,7 @@
 ||javtrailers.com^
 ||javwind.com^
 ||jfdaily.com^
+||jianshu.com^
 ||jieav.com^
 ||jiedm.com^
 ||jiemian.com^
@@ -647,6 +658,7 @@
 ||manchome.com^
 ||manga-news.com^
 ||manga.fandom.com^
+||mangabz.com^
 ||mangacopy.com^
 ||mangadex.org^
 ||mangafire.to^
@@ -722,11 +734,13 @@
 ||myfeel-tw.com^
 ||mygopen.com^
 ||mypapercraft.net^
+||myrenta.com^
 ||mysadhappy.com^
 ||mythzdarkmeme03.blogspot.com^
 ||myvideo.net.tw^
 ||mzdbl.cn^
 ||mzsgame.blogspot.com^
+||n.yam.com^
 ||naltupo-movie.work^
 ||namu.wiki^
 ||narconon.*^
@@ -813,6 +827,7 @@
 ||pdnews.cn^
 ||peachring.com^
 ||peekme.cc^
+||penana.com^
 ||pentanews.net^
 ||people.*^
 ||peopleapp.com^
@@ -895,6 +910,7 @@
 ||rrgod.com^
 ||rthk.hk^
 ||rti.org.tw^
+||ruiwen.com^
 ||rujiazg.com^
 ||rwnews.tw^
 ||ryuugames.com^
@@ -921,6 +937,7 @@
 ||sese277.info^
 ||seselah.com^
 ||setn.com^
+||shaha.tw^
 ||shangfenbao.com^
 ||shanghaidz.com^
 ||shinden.pl^
@@ -1121,6 +1138,7 @@
 ||wswebcdn.com^
 ||wswebpic.com^
 ||wuke.app^
+||wve.com.tw^
 ||wwofqtmnr.life^
 ||wyzxwk.com^
 ||xd.com
@@ -1136,6 +1154,7 @@
 ||xinmedia.com^
 ||xinmeitulu.com^
 ||xixik.com^
+||xmanhua.com^
 ||xmonter.com^
 ||xrage-nakama.com^
 ||xslist.org^
@@ -1149,6 +1168,7 @@
 ||xxav.one^
 ||xxgirls.vip^
 ||xyz567.com^
+||yabeline.tw^
 ||yandex.ru^
 ||ydn.com.tw^
 ||yeeyi.com^
@@ -1165,6 +1185,7 @@
 ||youleyou.com^
 ||younggene.com.tw^
 ||youxi.com^
+||ysolife.com^
 ||yuanquan.tw^
 ||yuanwang.com.tw^
 ||yuewaiwei.net^
