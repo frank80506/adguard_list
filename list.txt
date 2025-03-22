@@ -45,6 +45,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||518.com.tw^
 ||51baoliao01.com^
 ||51cg1.com^
+||51cto.com^
 ||5238.me^
 ||5278.cc^
 ||5278tea.com^
@@ -60,6 +61,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||6parkbbs.com^
 ||6parknews.com^
 ||71acg.net^
+||77mh.nl^
 ||78gameclub.com^
 ||7car.tw^
 ||7qile.com^
@@ -113,8 +115,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||ani.gamer.com.tw^
 ||anilist.co^
 ||anima.com.tw^
-||animate-onlineshop.com.tw^
-||animate-onlineshop.jp^
+||animate-onlineshop.*^
 ||anime-erodouga.net^
 ||anime-h.net^
 ||anime1.*^
@@ -131,6 +132,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||apkcombo.app^
 ||apkpure.com^
 ||appmedia.jp^
+||artstation.com^
 ||asex168.com^
 ||assistirhentai.com^
 ||atmovies.com.tw^
@@ -186,6 +188,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||boniu123.cc^
 ||boomtv.tw^
 ||booth.pm^
+||botanwang.com^
 ||boti.net^
 ||bottleneko.app^
 ||boyangu.com^
@@ -219,12 +222,16 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||chengchorhung.net^
 ||chiaki.site^
 ||chienwen.net^
+||china-cer.com.cn^
+||china.com.cn^
+||china.com^
 ||chinadaily.com.cn^
 ||chinadigitaltimes.net^
 ||chinanews.com^
 ||chinapp.com^
 ||chinapress.com.my^
 ||chinatimes.com^
+||chinawriter.com.cn^
 ||chinaz.com^
 ||chinesedaily.com^
 ||chobit.cc^
@@ -245,6 +252,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||cna.com.tw^
 ||cnnb.com.cn^
 ||cnpeoplenews.com^
+||cnwest.com^
 ||cnyes.com^
 ||co818.com^
 ||cofacts.tw^
@@ -289,6 +297,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||dailynewsfeeding.com^
 ||dailyview.tw^
 ||dalaoweb.top^
+||dangjian.cn^
 ||darencademy.com^
 ||dayoo.com^
 ||dcard.*^
@@ -411,6 +420,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||game2.tw^
 ||game8.jp^
 ||gamebase.*^
+||gameinns.co^
 ||gamejilu.com^
 ||gamekee.com^
 ||gamemad.com^
@@ -463,6 +473,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||gvm.com.tw^
 ||h-ciyuan.com^
 ||h-pon.doorblog.jp^
+||habago.org^
 ||hacg.*^
 ||haitaibear.com^
 ||haixia-info.com^
@@ -499,6 +510,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||hk01.com^
 ||hkej.com^
 ||hket.com^
+||hkwl.org^
 ||hmv.co.jp^
 ||hobbigame.com^
 ||hochi.news^
@@ -514,6 +526,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||hoyolab.com^
 ||hpoi.net.cn^
 ||hskgene.com^
+||huaban.com^
 ||huahuacomputer.com.tw^
 ||huanqiu.com^
 ||hunkwizard.com^
@@ -638,6 +651,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||kprofiles.com^
 ||kpzs.com^
 ||kpzsz.com^
+||krzzjn.com^
 ||ktv-smart.jp^
 ||kuai8.com^
 ||kuaikanmanhua.com^
@@ -724,6 +738,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||missav123.com^
 ||mixeggstudio.blogspot.com^
 ||mjwo.net^
+||mkzhan.com^
 ||mmorpg.com^
 ||mmorpg.plus^
 ||mmov.app^
@@ -758,6 +773,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||my-best.com^
 ||myabandonware.com^
 ||myanimelist.net^
+||mybookone.com.hk^
 ||mycomic.com^
 ||mydown.com^
 ||mydrivers.com^
@@ -809,6 +825,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||njzq.cn^
 ||nogomi.ru^
 ||noodlemagazine.com^
+||novel543.com^
 ||now.com^
 ||nowe.com^
 ||nownews.com^
@@ -819,6 +836,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||nukistream.com^
 ||nvns.net^
 ||nyaa.*^
+||observer-taipei.com^
 ||ocg.idv.tw^
 ||odysee.com^
 ||ofeyhong.pixnet.net^
@@ -835,6 +853,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||oneone.com.tw^
 ||onepiece-cardgame.com^
 ||onlinedown.net^
+||ooopic.com^
 ||op.gg^
 ||open-xunlei.com^
 ||orangenews.hk^
@@ -842,6 +861,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||org.cn^
 ||otakumode.com^
 ||otomad.wiki^
+||ourchinastory.com^
 ||oursteps.com.au^
 ||overdope.com^
 ||owlting.com^
@@ -885,8 +905,10 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||pk3c.com.tw^
 ||playgame.wiki^
 ||playno1.com^
+||playsport.cc^
 ||plurk.com
 ||plytic.com^
+||pmcaff.com^
 ||podcasts.apple.com^
 ||pokemon-card.com^
 ||pokemon.*^
@@ -959,6 +981,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||sallyq.com.tw^
 ||sanlier.blog^
 ||saraba1st.com^
+||sccnn.com^
 ||scientology-fso.org^
 ||scientology-kaohsiung.org^
 ||scientology.*^
@@ -976,6 +999,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||sese277.info^
 ||seselah.com^
 ||setn.com^
+||sfacg.com^
 ||shaha.tw^
 ||shangfenbao.com^
 ||shanghaidz.com^
@@ -1121,6 +1145,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||verycd.com^
 ||vgtimes.ru^
 ||videoland.com.tw^
+||vigormedia.tw^
 ||vikacg.*^
 ||virtual-youtuber.userlocal.jp^
 ||virtualyoutuber.fandom.com^
@@ -1191,7 +1216,9 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||xd.com
 ||xfastest.com^
 ||xhamster19.com^
+||xiaoheihe.cn^
 ||xiaohongshu.com^
+||xiaopi.com^
 ||xiaoyakankan.com^
 ||ximalaya.com^
 ||xin-stars.com^
@@ -1233,6 +1260,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||youkai-mago.com^
 ||youleyou.com^
 ||younggene.com.tw^
+||youth.cn^
 ||youxi.com^
 ||ysolife.com^
 ||yuanquan.tw^
@@ -1260,6 +1288,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||zhihu.*^
 ||zhivibe.com^
 ||zi0.cc^
+||zijing.com.cn^
 ||zingala.com^
 ||ziti163.com^
 ||ziyexing.com^
