@@ -140,6 +140,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||adult.contents.fc2.com^
 ||adultempire.com^
 ||advertising.amazon.com^
+||aflc.com.cn^
 ||afternic.com^
 ||afterschool.com.hk^
 ||afv.com.tw^
@@ -239,6 +240,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||bannedbook.org^
 ||banxia.cc^
 ||baozimh.com^
+||basketballtop5.com^
 ||bastillepost.com^
 ||battlecatsinfo.github.io^
 ||battlenet.com.cn^
@@ -345,6 +347,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||cdn-news.org^
 ||cdnmg.com^
 ||cdns.com.tw^
+||ce.cn^
 ||cehca.com^
 ||centanet.com^
 ||centuryasia.com.tw^
@@ -655,6 +658,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||focusnews.com.tw^
 ||fodizi.tw^
 ||forgemind.net^
+||forgetfulbc.blogspot.com^
 ||forlandingpage.vercel.app^
 ||fountmedia.io^
 ||freddy-chen.com^
@@ -1061,6 +1065,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||kungal.com^
 ||kusugurizanmai.com^
 ||kwai.com^
+||kwongwah.com.my^
 ||kyodonews.net^
 ||lanrenbl.net^
 ||laowang.vip^
@@ -1345,6 +1350,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||on.cc^
 ||onaho.cn^
 ||onahodouga.com^
+||onefc.com^
 ||oneone.com.tw^
 ||onepiece-cardgame.com^
 ||onlinedown.net^
@@ -1433,6 +1439,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||poapan.xyz^
 ||pocketgamer.com^
 ||podcasts.apple.com^
+||poddtoppen.se^
 ||poe.tw^
 ||poe2db.tw^
 ||poewiki.net^
@@ -1487,6 +1494,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||qqhaoting.com^
 ||qstheory.cn^
 ||qtvcd.com^
+||quanben5.com^
 ||quora.com^
 ||qvc.jp^
 ||qz168.com.tw^
@@ -1639,6 +1647,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||streamhatchet.com^
 ||strip2.club^
 ||stripchat.com^
+||styletc.com^
 ||styletoy.com.tw^
 ||su-innovationtimes.com^
 ||sucai999.com^
@@ -1693,6 +1702,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||tfc-taiwan.org.tw^
 ||tgcchinese.org^
 ||tgs.tca.org.tw^
+||thaihot.com.cn^
 ||thegay.com^
 ||theinitium.com^
 ||theintellectual.net^
@@ -1987,6 +1997,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||yystv.cn^
 ||yzw19.com^
 ||yzwb.net^
+||yzz.cn^
 ||yzzk.com^
 ||zaiko.io^
 ||zalora.com.hk^
