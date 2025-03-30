@@ -667,6 +667,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||forgemind.net^
 ||forgetfulbc.blogspot.com^
 ||forlandingpage.vercel.app^
+||fortuneinsight.com^
 ||fountmedia.io^
 ||freddy-chen.com^
 ||freeandroidroms.net^
@@ -734,6 +735,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||gdlmg.net^
 ||gelbooru.com^
 ||geneonline.news^
+||geologyscience.com^
 ||getandroidroms.com^
 ||getchu.com^
 ||getit01.com^
@@ -769,6 +771,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||goodsmile.com^
 ||gospelherald.com.tw^
 ||gosugamers.net^
+||gotquestions.org^
 ||gov.cn^
 ||gov.hk^
 ||gov.mo^
@@ -1262,6 +1265,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||mubai.link^
 ||mumuplayer.com^
 ||murax2.com^
+||musee-rodin.fr^
 ||mustjav.com^
 ||my-best.com^
 ||myabandonware.com^
@@ -1358,6 +1362,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||ocacnews.net^
 ||ocg.idv.tw^
 ||odysee.com^
+||oeeee.com^
 ||ofeyhong.pixnet.net^
 ||ofiii.com^
 ||ofweek.com^
@@ -1437,6 +1442,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||pfpf8.com^
 ||philomedium.com^
 ||phiphicake.blogspot.com^
+||photo-ac.com^
 ||photonmedia.net^
 ||piaotia.com^
 ||piccoma.com^
@@ -1561,8 +1567,10 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||rrgod.com^
 ||rthk.hk^
 ||rti.org.tw^
+||rtv.org.tw^
 ||ruiwen.com^
 ||rujiazg.com^
+||rulai.org^
 ||rule34.xxx^
 ||rule34hentai.net^
 ||rwnews.tw^
@@ -1604,6 +1612,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||shanghaidz.com^
 ||shawnyhc.blogspot.com^
 ||shencou.com^
+||shesay.com^
 ||shin-sekai.fr^
 ||shinden.pl^
 ||shishioh.info^
@@ -1648,6 +1657,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||soundofhope.org^
 ||sp3631.pixnet.net^
 ||spankbang.com^
+||speakout.hk^
 ||speedytrendsb.com^
 ||sportsv.net^
 ||spp.com.tw^
@@ -1782,6 +1792,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||tpca.tw^
 ||tpecoffee.iwiki.tw^
 ||tpeja.org.tw^
+||travel4u.com.tw^
 ||travelerluxe.com^
 ||trillionstage.jp^
 ||tripod.com^
@@ -1858,6 +1869,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||videoland.com.tw^
 ||vigormedia.tw^
 ||vikacg.*^
+||villagedoor.org^
 ||virtual-youtuber.userlocal.jp^
 ||virtualyoutuber.fandom.com^
 ||vitabox.com.tw^
