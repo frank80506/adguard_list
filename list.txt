@@ -1,6 +1,7 @@
 
 @@||fuli.gamer.com.tw^
 biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag__0y_t_)
+@@||edu.cn^
 ||*.news.yahoo.com^
 ||*.stock.yahoo.com^
 ||037hdjav.com^
@@ -26,6 +27,31 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||18ccc.tv^
 ||18comic.vip^
 ||18h.mm-cg.com^
+||weixinyidu.com^
+||ithome.com.tw^
+||tennisprediction.com^
+||picuki.com^
+||nikeinc.com.cn^
+||nikestore-taiwan.com^
+||nike.com^
+||basketball-reference.com^
+||nbastore.tw^
+||worldpeace2013.com^
+||wuwuwu001.com^
+||mavs.com^
+||stratz.com^
+||dota2protracker.com^
+||vlr.gg^
+||ggesports.com^
+||afkgaming.com^
+||oneesports.gg^
+||egamersworld.com^
+||dota2.*^
+||*.ru^
+||game-tournaments.com^
+||ensigame.com^
+||arms-rcma.com^
+||*.cn
 ||18j.tv^
 ||18p.fun^
 ||18porn.cc^
