@@ -5,7 +5,7 @@
 @@||fuli.gamer.com.tw^
 @@||proton.me^
 @@||sgtools.info^
-@@||steamdb.info
+@@||steamdb.info^
 biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag__0y_t_)
 ||0-tech.com^
 ||037hdjav.com^
