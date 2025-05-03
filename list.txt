@@ -136,6 +136,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||91toy.com.tw^
 ||94ero.com^
 ||96kaifa.com^
+||9900.com.tw^
 ||999xc.net^
 ||99csw.com^
 ||99itv.net^
@@ -1020,6 +1021,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||fws.tw^
 ||fx361.com^
 ||fxcreations.com^
+||fymmg.com^
 ||g-music.com.tw^
 ||g2esports.com^
 ||galaxus.de^
@@ -1114,6 +1116,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||globenewswire.com^
 ||glorybirdcrime.com^
 ||gnjoy.com.tw^
+||godhman.net^
 ||godzilla.*^
 ||gofreebooks.com.tw^
 ||gogalgame.com^
@@ -1351,6 +1354,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||igdb.com^
 ||ign.com^
 ||iheima.com^
+||ikkunn53.com^
 ||illgames.jp^
 ||illusion.*^
 ||iluck7.com^
@@ -1416,6 +1420,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||jaburo.earth^
 ||jahweh.tw^
 ||janitorai.com^
+||japaholic.com^
 ||japaneseactresses.com^
 ||jason-career.com^
 ||jav-angel.net^
@@ -1514,6 +1519,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||kaicenter.com^
 ||kakuyomu.jp^
 ||kamigame.jp^
+||kaminomori.com^
 ||kancolle*^
 ||kangchuql.com^
 ||kankanews.com^
@@ -1713,6 +1719,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||manhuagui.com^
 ||manhuaren.com^
 ||manhuaren.net^
+||manhuazhan.com^
 ||manmanju.com^
 ||manxiu-law.com^
 ||maoyan.com^
@@ -2298,6 +2305,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||rfa.org^
 ||rgsport.tw^
 ||rhinoshield.tw^
+||ribenzahuo.com^
 ||ricacorp.com^
 ||richardmille.com^
 ||richestlife.com^
@@ -2333,6 +2341,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||rujiazg.com^
 ||rulai.org^
 ||rule34hentai.net^
+||rustbestservers.com^
 ||rwnews.tw^
 ||ryuugames.com^
 ||s-darts.tw^
@@ -2449,6 +2458,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||smzdm.com^
 ||sndiary01.com^
 ||sngk.net^
+||snopes.com^
 ||snow-plus.net^
 ||soapcentral.com^
 ||socialcounts.org^
@@ -2507,6 +2517,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||stock.yahoo.com^
 ||stockfeel.com.tw^
 ||stockstar.com^
+||stopitnow.org^
 ||store^
 ||storystudio.tw^
 ||straitstimes.com^
@@ -2685,6 +2696,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||torrent4you.org^
 ||toutiao.com^
 ||tower.jp^
+||towerofclassicgame.com^
 ||towerofsaviors.com^
 ||town^
 ||toy-people.com^
@@ -2803,6 +2815,9 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||va^
 ||vac.gov.tw^
 ||value-press.com^
+||vanilla-games.jp^
+||vanilla-jp.com^
+||vanilla-official.jp^
 ||vcardtcg.com^
 ||vchavcha.com^
 ||veganladyiris.com^
@@ -2854,6 +2869,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||volunteerminister.tw^
 ||volunteerministers.org^
 ||vopbookshop.cashier.ecpay.com.tw^
+||vpsdawanjia.com^
 ||vrabi.net^
 ||vrrw.net^
 ||vshojo.com^
