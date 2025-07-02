@@ -245,7 +245,6 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||angelalovemovie.com^
 ||angelibrary.com^
 ||anhuinews.com^
-||ani.gamer.com.tw^
 ||anibase.net^
 ||anibk.com^
 ||anidb.net^
@@ -1059,7 +1058,6 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||gamekee.com^
 ||gamemad.com^
 ||gamenir.com.tw^
-||gamer.com.tw^
 ||gamer.ne.jp^
 ||gamer520.com^
 ||gamerant.com^
