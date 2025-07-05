@@ -11,6 +11,7 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||037hdjav.com^
 ||07bx.com^
 ||0cili.org^
+||bilibili.com^
 ||dota2.com^
 ||threads.com^
 ||3-oclock.com.tw^
