@@ -10,6 +10,10 @@ biggo.com.tw## .ProductItemListPC_product-row__0UVe5:has(img.ProductTypeTag_tag_
 ||0-tech.com^
 ||037hdjav.com^
 ||07bx.com^
+||avbase.net^
+||19lou.com^
+||taptap.io^
+||baidu.com^
 ||0cili.org^
 ||bilibili.com^
 ||dota2.com^
