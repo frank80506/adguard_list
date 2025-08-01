@@ -1,0 +1,11 @@
+
+||ads-twitter.com^
+||cdn.linkedin.oribi.io^
+||doubleclick.net^
+||facebook.net^
+||google-analytics.com^
+||googletagmanager.com^
+||googletagservices.com^
+||quantserve.com^
+||scorecardresearch.com^
+||snapchat.com^$script
