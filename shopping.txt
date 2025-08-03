@@ -1,2 +1,4 @@
 ||pchome.com.tw^
 ||momoshop.com.tw^
+||steamdb.info^
+||shopee.tw^
