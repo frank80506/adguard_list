@@ -1,4 +1,5 @@
-
+@@assets.pchome.com.tw
+@@img.pchome.com.tw
 00cos.com
 100cup.com
 101kanshu.com
