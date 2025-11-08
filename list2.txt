@@ -23,7 +23,6 @@
 3loumao.org
 3xplanet.net
 40k.gallery
-handsetcat.com
 4399.com
 4545.to
 4chan.org
@@ -41,6 +40,7 @@ handsetcat.com
 83zws.com
 8novel.com
 91banzhu.com
+91mobiles.com
 9animetv.to
 a-kaguya.com
 aboluowang.com
@@ -55,6 +55,8 @@ adaymag.com
 adultgamingroom.com
 afkgaming.com
 agame01.com
+ahhhhfs.com
+ailongmiao.com
 aine2020love.liteshop.tw
 ajianpingce.com
 akiba-online.com
@@ -63,6 +65,8 @@ allcpp.cn
 allnews.tw
 altema.jp
 aminoapps.com
+analyticsinsight.net
+androidcentral.com
 ani.me
 anibase.net
 anibk.com
@@ -117,6 +121,7 @@ beanfun.com
 bearboss.com
 behindthevoiceactors.com
 beiyoucom.com
+bella.tw
 bellesa.co
 bellsmos.com
 bettertomorrowcentre.com
@@ -125,6 +130,7 @@ bhouri.com
 bigmedia.com.tw
 bigwater.org
 bilibili.com
+biligame.com
 bilimanga.net
 bilinovel.com
 biquge345.com
@@ -173,6 +179,7 @@ chinesedaily.com
 chongbuluo.com
 christianstudy.com
 chtouch.com
+chtsai.org
 chutaste.com
 cikgulim.com
 cine21.org
@@ -201,6 +208,7 @@ comicbook.com
 comicun.com
 cool-style.com.tw
 cool3c.com
+coolexplore.com
 cooltey.org
 coskaomission.org
 cosmopolitan.com
@@ -343,6 +351,7 @@ faunasplus.net
 feiniaoks.com
 fhentai.net
 finalweapon.net
+findthisbest.com
 flashget.com
 fljweb.com
 floridalottery.com
@@ -439,6 +448,7 @@ gvm.com.tw
 gzstv.com
 hahagames.com
 haho.moe
+handsetcat.com
 hangzhou.com.cn
 hanime.com
 hanime.red
@@ -516,6 +526,7 @@ hololivepro.com
 hololivetoday.com
 holotower.org
 home.gamer.com.tw
+homematetool.com
 homo.xxx
 honeycome.wikiru.jp
 honga.net
@@ -568,6 +579,7 @@ iogames.games
 iogames.onl
 iogames.space
 iogamesonly.com
+ipcf.org.tw
 iq.com
 iqoo.me
 isunfar.com.tw
@@ -581,6 +593,7 @@ ixdzs8.com
 iyf.tv
 iyideng.win
 jable.tv
+japan-javtiful.com
 japan-milkfactory.com
 japanhdv.com
 jav-angel.net
@@ -610,6 +623,10 @@ javpop.mov
 javstream.net
 javsubbed.net
 javtiful.com
+javtiful.info
+javtiful.ru
+javtiful.to
+javtiful.video
 javxxx.me
 jctechspace.com
 jdlingyu.com
@@ -683,6 +700,7 @@ leagueoflegends.com
 leawo.org
 lewdspot.com
 lewdvrgames.com
+life.tw
 light-academy.tw
 lightsout.cc
 lihkg.com
@@ -693,6 +711,7 @@ listennotes.com
 litv.tv
 lolchess.gg
 lovehentai.net
+lspsp.me
 ltn.com.tw
 luke54.org
 lunatic-arts.com
@@ -781,6 +800,7 @@ my-best.com
 myacg.com.tw
 myanimelist.net
 mycomic.com
+myfeel-tw.com
 mygopen.com
 myhentai.tv
 mypikpak.com
@@ -830,6 +850,7 @@ nimo.tv
 niusnews.com
 njav.tv
 nmplus.hk
+nothing.tech
 nova.com.tw
 novel543.com
 nownews.com
@@ -839,7 +860,6 @@ ntdtv.com
 ntet.cn
 ntucgm.blogspot.com
 nukemanga.com
-myfeel-tw.com
 nukistream.com
 nutwg.com
 nyaa.si
@@ -872,6 +892,8 @@ paldb.cc
 palomitacas.com
 pazdra2ch.blog.jp
 pc-xunlei.com
+pcguide.com
+pcmag.com
 pcsoft.com.cn
 peeping-voyeur.com
 penana.com
@@ -938,6 +960,7 @@ pushguy.com
 puzdlife.com
 pvideos.org
 qbnews.tw
+qianfangzy.com
 qianlong.com
 qq.com
 qstheory.cn
@@ -961,6 +984,7 @@ right-media.news
 riotgames.com
 rocksugarcat.com
 roomie.tw
+rrgod.com
 ruan-clinic.com.tw
 rule34video.com
 rumanhua.org
@@ -1002,6 +1026,7 @@ shenshileyuan.com
 shenshishenqi.com
 shfljx.com
 shifucare.com
+shopsavvy.com
 siaww.com
 simplefunpc.com
 simply-hentai.com
@@ -1020,6 +1045,7 @@ smzdm.com
 snapchat.com
 so.com
 soft4fun.net
+softobook.com
 sogou.com
 sohu.com
 sokmil.com
@@ -1030,6 +1056,7 @@ sportsv.net
 sqxrmyy.com
 sshs.pw
 ssmhw.com
+sspai.com
 steamchina.com
 steamdb.info
 steamxo.com
@@ -1105,6 +1132,7 @@ toysheart.co.jp
 trakt.tv
 trannyclips.com
 trannytube.tv
+travel366days.com
 tsai-jen.com
 ttshow.tw
 ttv.com.tw
@@ -1184,6 +1212,7 @@ whichav.video
 wiki.yjsnpi.nu
 wikis.tw
 win.gg
+wired.com
 wmanhua.com
 womany.net
 womenshealthmag.com
@@ -1253,32 +1282,22 @@ zawarudo.org
 zdic.net
 zeelive.com
 zh-classical.wiki
+bestbuy.com
+theverge.com
+finance.yahoo.com
+coolthings.com
+liliputing.com
+appleshinja.com
 zhaosy.com
 zhentube.com
-javtiful.video
-nothing.tech
-91mobiles.com
-javtiful.ru
-javtiful.to
-javtiful.info
-japan-javtiful.com
-sspai.com
-theporndude.com
-ipcf.org.tw
-biligame.com
-rrgod.com
-bella.tw
-chtsai.org
-life.tw
-travel366days.com
 zhibo8.com
-androidcentral.com
-wired.com
-analyticsinsight.net
+cdw.com
+pcworld.com
+rtings.com
 zhihu.com
 zhishidou.com
-techradar.com
 zhishitiyu.com
 zol.com.cn
 zz-comic.com
+bhphotovideo.com
 香港電競.com
