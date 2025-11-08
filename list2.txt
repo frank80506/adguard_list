@@ -1,5 +1,3 @@
-@@assets.pchome.com.tw
-@@img.pchome.com.tw
 00cos.com
 100cup.com
 101kanshu.com
@@ -873,6 +871,8 @@ pazdra2ch.blog.jp
 pc-xunlei.com
 pchome.com.tw
 @@24h.pchome.com.tw
+@@assets.pchome.com.tw
+@@img.pchome.com.tw
 pcsoft.com.cn
 peeping-voyeur.com
 penana.com
