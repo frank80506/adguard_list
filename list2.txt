@@ -4,6 +4,7 @@
 101kanshu.com
 11141.cn
 12371.cn
+12377.cn
 141jj.com
 163.com
 17173.com
@@ -253,6 +254,7 @@ chichi-pui.com
 chii.in
 chillyik.com
 china.com.cn
+chinadaily.com.cn
 chinanews.com.cn
 chinatide.net
 chinatimes.com
@@ -291,6 +293,7 @@ cnr.cn
 cntv.cn
 cnyes.com
 cockdude.com
+cofacts.tw
 collegenetworth.com
 comicbook.com
 comicun.com
@@ -322,6 +325,7 @@ ctitv.com.tw
 cts.com
 cts.com.tw
 ctwant.com
+cuniq.com
 cup.com.hk
 cup001.com
 cvpka.tw
@@ -494,6 +498,7 @@ floridalottery.com
 forbiddenbroadway.com
 forebears.io
 forecastock.tw
+formosafiles.com
 formula1.com
 fountmedia.io
 fpo.xxx
@@ -896,6 +901,7 @@ kisscosplay.moe
 kisshentai.net
 kivo.wiki
 kkbox.com
+kkday.com
 kknews.cc
 kktv.me
 klove.com
@@ -1124,6 +1130,7 @@ newton.com
 newton.com.tw
 neww.tw
 nexon.com
+nexttv.com.tw
 nfnews.com
 ng173.com
 nga.178.com
@@ -1238,8 +1245,10 @@ pipedream.vip
 pixiv.net
 pixivdaily.com
 pixivision.net
+pixnet.net
 pixtastock.com
 pkstep.com
+plainlaw.me
 planet9.gg
 planetf1.com
 playboard.co
@@ -1335,6 +1344,7 @@ riotgames.com
 rocksugarcat.com
 rocky-net.co.jp
 rollingstone.com
+roo.cash
 rookie-av.jp
 roomie.tw
 rottentomatoes.com
@@ -1466,6 +1476,7 @@ taipeimission.org
 taisendoll.com
 taisounds.com
 taiwanpenclub.org
+taiwansig.tw
 talenetauto.com
 tamatoys.asia
 tangpc.com
@@ -1629,6 +1640,7 @@ voicemod.net
 voicettank.org
 volunteerminister.tw
 volunteerministers.org
+votetw.com
 vrporn.com
 vtubermodels.com
 vtubernewsdrop.com
@@ -1642,6 +1654,7 @@ warhammer.com
 warhammer40000.com
 warhammerplus.com
 watchhentai.me
+watchinese.com
 wattbrother.com
 waybig.com
 wccftech.com
@@ -1660,6 +1673,7 @@ wetv.vip
 wfuapp.com
 whbydcc.com
 whichav.video
+whogovernstw.org
 wiki.yjsnpi.nu
 wikipedia.org
 wikiquote.org
