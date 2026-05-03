@@ -1,16 +1,9 @@
 ||24h.pchome.com.tw^$document
 ||airportnode.com^
 ||aixiansoo.com^
-||akabeesoft2.com^$document
-acgbox.link
 ||animatetimes.com^$doc
 ||aomstats.io^
 ||catci.design.blog^
-||chowsangsang.com^
-||comics.inkr.com^
-||coolpc.com.tw^$document
-||darenjiazu.com^
-||dgy.la^
 ||dmm.co.jp^$document
 ||e-muse.com^$document
 ||gameodin.com^
@@ -29,25 +22,12 @@ acgbox.link
 ||mikalibrary.com^
 ||moelong.com^$document
 ||momoshop.com.tw^$document
-||multporn.net^
 ||oricon.co.jp^$doc
-||paofu.info^
 ||prnewswire.com^
-||ptt.pink^
-||rikei-danshi.work^
-||rule34.tube^
-||solarck.com^
-||ssrpeach.com^
 ||store.steampowered.com^$document
-||suruga-ya.jp^$doc
-||tiffany.com^
-||twitter.com^
-||v2raywin.com^
-||waddystore.com^
+waddystore.com
 ||wired.jp^
 ||xrage-nakama.com^$document
-||xtrojan.vip^
-||zjol.com.cn^
 00cos.com
 0xzx.com
 1000novel.com
@@ -69,11 +49,16 @@ acgbox.link
 163.com
 168gamesf.com
 17173.com
+177picyy.com
 18-girls-av.com
 181youxi.com
 18av.mm-cg.com
 18comic.vip
 18gifts.com
+18h.animezilla.com
+18h.mm-cg.com
+18h.to
+18hmanga.com
 18jav.tv
 18mh.net
 18pps.com
@@ -148,6 +133,7 @@ acgbox.link
 52shuku.net
 53shop.com
 55comic.com
+55comics.com
 591888.com.tw
 5ch-echiechi.doorblog.jp
 5ch.net
@@ -212,6 +198,7 @@ ac.fun
 acfun.cn
 acfun.tv
 acg17.com
+acgbox.link
 acggw.me
 acgknow.info
 acgn.cc
@@ -238,6 +225,7 @@ ahegao.online
 ahhhhfs.com
 ahui3c.com
 ai-booth.com
+aiacg.vip
 aicupid.org
 aigei.com
 ailongmiao.com
@@ -253,6 +241,7 @@ ajadedgay.com
 ajianpingce.com
 ajianpingce.org
 ajin-movie.com
+akabeesoft2.com
 akashicbookmark.com
 aki-h.com
 akiba-online.com
@@ -738,6 +727,7 @@ chinesewords.org
 chipsandcheese.com
 chobit.cc
 chongbuluo.com
+chowsangsang.com
 christianstudy.com
 chromaso.net
 chromeunboxed.com
@@ -822,9 +812,11 @@ comefromchina.com
 cometbbs.com
 comic-valkyrie.com
 comicbook.com
+comicbox.xyz
 comicking.org
 comicommunity.com
 comicores.com
+comics.inkr.com
 comicsarmy.com
 comicun.com
 comicworld.com.tw
@@ -839,6 +831,7 @@ coolaler.com
 coolexplore.com
 coolloud.org.tw
 coolmathgames.com
+coolpc.com.tw
 cooltey.org
 coolthings.com
 corepickslab.com
@@ -938,6 +931,7 @@ dancihu.com
 danmuxiu.cn
 daoinfo.org
 daradara.me
+darenjiazu.com
 darkanddarker.com
 darkgamer.com
 darkrooms.fandom.com
@@ -971,6 +965,7 @@ deviantart.com
 dexerto.com
 dfjav.com
 dgaqp.com
+dgy.la
 diablo2.io
 diablo3.blizzard.com
 diamondcosmetic.com.tw
@@ -1307,6 +1302,7 @@ fountmedia.io
 fow.lol
 fox5atlanta.com
 fpo.xxx
+fqdm.xyz
 frandroid.com
 free.com.tw
 freecomics.xxx
@@ -1540,8 +1536,10 @@ gvm.com.tw
 gyo.tc
 gyutora.jp
 gzstv.com
+h-ciyuan.com
 h-ero-game.com
 h-suki.com
+h-webtoon.com
 h528.com
 hacg.casa
 hacg.dad
@@ -1577,7 +1575,10 @@ hanime.stream
 hanime.tv
 hanime.video
 hanime.watch
+hanime1.biz
 hanime1.me
+hanime1go.com
+hanime1vip.com
 hanimehentai.tv
 hanimeone.me
 hanimes.org
@@ -1729,6 +1730,7 @@ hmw5.com
 hmwang.cc
 hngameguide.com
 hnt.co.jp
+ho5ho.com
 hobbiespoint.com
 hobbigame.com
 hobbyholic.org
@@ -2076,6 +2078,7 @@ jojowiki.com
 jonygame.com
 joox.com
 journey.tw
+joyacg.top
 joycolori.com
 joyhentai.red
 joyreactor.com
@@ -2169,6 +2172,7 @@ kktv.me
 klgeek.com
 klmanga.app
 klove.com
+kmh001.com
 kmt.org.tw
 knews.com.tw
 knitpeople.com.cn
@@ -2215,6 +2219,8 @@ kurocore.com
 kurogames.com
 kurousagi-investor.com
 kurozora.app
+kxkmh.xyz
+kxmanhua.com
 kyonyu-eroi.com
 kyy.lol
 la-place.ca
@@ -2507,6 +2513,7 @@ mirrordaily.news
 mirrorfiction.com
 mirrormedia.mg
 misidegame.com
+missai.vip
 missav.app
 missav.bz
 missav.live
@@ -2756,6 +2763,7 @@ njkt.fun
 nmiagaming.com
 nmns.edu.tw
 nmplus.hk
+nnhanman.xyz
 nnyy.tw
 no-gods-no-masters.com
 noobfeed.com
@@ -2898,9 +2906,11 @@ palomitacas.com
 palygamer.com
 pan-chira.com
 pan-pan.co
+pandatools.org
 panewslab.com
 pansci.asia
 pantherlakecampingresort.com
+paofu.info
 para-daily.com
 paradoxwikis.com
 parenting.com.tw
@@ -3075,6 +3085,7 @@ pts.org.tw
 ptt-reviews.cc
 ptt.best
 ptt.cc
+ptt.pink
 ptt.reviews
 pttbuy.tw
 pttcomics.com
@@ -3186,6 +3197,7 @@ ride-thailand.com
 right-media.news
 right-time.com.tw
 rightshopaudiohk.com
+rikei-danshi.work
 riotgames.com
 rise-tw.org
 riss.kr
@@ -3207,6 +3219,7 @@ roshy.tv
 rosy-arts.com
 rottentomatoes.com
 rou.video
+rouman5.com
 routenote.com
 rouvket.com
 rouxiebao.com
@@ -3221,6 +3234,7 @@ ruan-clinic.com.tw
 rubii.ai
 ruiwen.com
 rule34.gg
+rule34.tube
 rule34.us
 rule34.xxx
 rule34video.com
@@ -3292,6 +3306,7 @@ setemaq.com
 setn.com
 setnmh.com
 sex3.com
+sexacg.xyz
 sexcelebrity.net
 sexconcepthk.com
 sexfreehd.xxx
@@ -3416,6 +3431,7 @@ sogi.com.tw
 sogou.com
 sohu.com
 sokmil.com
+solarck.com
 soler.com.tw
 solitairetime.com
 sonder.com
@@ -3456,6 +3472,7 @@ ssbwiki.com
 sshs.pw
 ssmhw.com
 sspai.com
+ssrpeach.com
 ssrplus.org
 stablecoin.com
 stackedgirls
@@ -3511,6 +3528,7 @@ superdope.games
 supermisses.com
 supjav.com
 suruga-ya.com
+suruga-ya.jp
 suzuharalulu.site
 sw-lightnovelimpression.hatenablog.com
 swag.live
@@ -3660,6 +3678,7 @@ tidal.toys
 tidenews.com.cn
 tidesight.com
 tierarzt-karlsruhe-durlach.de
+tiffany.com
 tiktok.com
 tinghao.moe
 tiohentai.com
@@ -3783,6 +3802,7 @@ twitcasting.tv
 twitch.tv
 twitchquotes.com
 twitchtracker.com
+twitter.com
 twkan.com
 twkeypoint.com
 twline5.com
@@ -3847,6 +3867,7 @@ uwowcn.com
 v2ob.com
 v2ph.com
 v2rayclashfree.com
+v2raywin.com
 v5wow.com
 vaynus.com
 vcc.g-cashier.com
@@ -4062,16 +4083,16 @@ wtpgame.com
 wu-ja.com
 wuwatracker.com
 wvf.com.tw
-www.5238.me
-www.avgle.mobi
-www.eettaiwan.com
-www.imgurl.org
-www.jav321.com
-www.mgstage.com
-www.outsiders.com.tw
-www.punyu.com
-www.tejwin.com
-www.vikacg.com
+5238.me
+avgle.mobi
+eettaiwan.com
+imgurl.org
+jav321.com
+mgstage.com
+outsiders.com.tw
+punyu.com
+tejwin.com
+vikacg.com
 wywyx.com
 wyzxwk.com
 x.ai
@@ -4145,6 +4166,7 @@ xszav2.com
 xszj.org
 xtreme-gaming-dota2.com
 xtrojan.net
+xtrojan.vip
 xueqiu.com
 xunlei.com
 xunwangba.com
@@ -4277,6 +4299,7 @@ zhuanzhuan.com
 zhuigeng.cc
 zi.media
 zixundingzhi.com
+zjol.com.cn
 zmxs1.com
 zol.com.cn
 zozo.jp
