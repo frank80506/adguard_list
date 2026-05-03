@@ -1,9 +1,12 @@
 ||24h.pchome.com.tw^$document
 ||airportnode.com^
 ||aixiansoo.com^
+mshanplamo.com
+buymeacoffee.com
+nagano-market.jp
 ||animatetimes.com^$doc
-||aomstats.io^
-||catci.design.blog^
+aomstats.io
+catci.design.blog
 ||dmm.co.jp^$document
 ||e-muse.com^$document
 ||gameodin.com^
