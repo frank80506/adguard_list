@@ -1,6 +1,7 @@
 ||24h.pchome.com.tw^$document
-||airportnode.com^
-||aixiansoo.com^
+airportnode.com
+aixiansoo.com
+myvessel.top
 mshanplamo.com
 horace.org
 addictedtoys2020.com
@@ -12,10 +13,12 @@ aomstats.io
 catci.design.blog
 ||dmm.co.jp^$document
 ||e-muse.com^$document
-||gameodin.com^
+gameodin.com
+infoq.cn
+sxdaily.com.cn
 ||gamepedia.jp^$doc
 ||gigazine.net^
-||goodcms8.com^
+goodcms8.com
 ||herleyjewelry.com^
 ||igamers.com.tw^
 ipgo.tw
