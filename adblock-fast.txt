@@ -732,6 +732,7 @@ bnext.com.tw
 boardgamegeek.com
 bobopic.com
 bocchi.rocks
+bocimov.cc
 bodu365.co
 boinbo.in
 boingboing.net
@@ -1391,6 +1392,7 @@ dve.idv.tw
 dvg.cn
 dw.com
 dxm66.com
+dxs.tw
 dynasty-scans.com
 dyxsw.com
 dzhx.jssss.org.cn
@@ -1754,6 +1756,7 @@ futavid.com
 futunn.com
 futureaitw.substack.com
 fuwanovel.moe
+fuyaoxs.com
 fuyuko.de
 fuzoku.jp
 fwmcbaubau.com
@@ -3091,6 +3094,7 @@ macromicro.me
 macrumors.com
 macworld.com
 madamefigaro.hk
+madaxs.com
 madgod.lineages.tw
 madou.club
 madoumedia.org
@@ -3119,6 +3123,7 @@ makerworld.com.cn
 makeuseof.com
 mamajan.com.tw
 managertoday.com.tw
+mandarinspot.com
 manga.line.me
 mangagamer.org
 mangahentai.me
@@ -3655,6 +3660,7 @@ nunubook.com
 nutaku.net
 nutoyz.com
 nutwg.com
+nvgug.com
 nvns.net
 nwen.net
 nxxhentai.net
@@ -4402,6 +4408,7 @@ shoutwiki.com
 showwe.tw
 shrimplitw.com
 shueisha.co.jp
+shuhaoxs.com
 shukui.net
 shutterstock.com
 shuzhaige.com
@@ -5004,6 +5011,7 @@ twrf.org.tw
 twthtw.org
 twwiki.net
 twxiaoshuo.com
+twxs.com.tw
 txxx.com
 tyenews.com
 typica.coffee
@@ -5402,6 +5410,7 @@ xiaoyakankan.tv
 xiaoyaoxinli.com
 xiaoyuzhoufm.com
 xiaxiaoqiang.net
+xide365.com
 xincanshu.com
 xincheping.com
 xincibaike.cn
@@ -5456,6 +5465,7 @@ xvideo-jp.com
 xvideos.com
 xvideos.es
 xxpiaotian.com
+xxsy.net
 xxxbp.tv
 xxxbunker.com
 xxxshame.com
@@ -5563,6 +5573,7 @@ yugioh-masterduel.codashop.com
 yugioh.com
 yugipedia.com
 yuluoke.org
+yunguig.com
 yunnan.cn
 yunyaosinyuan.com
 yuri-heeseol.com
