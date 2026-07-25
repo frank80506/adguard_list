@@ -555,6 +555,7 @@ awesome1213.com
 awoiaf.westeros.org
 axios.com
 ayassimplelife.com
+aylwen.com
 azquotes.com
 babepedia.com
 baby-kingdom.com
@@ -731,6 +732,7 @@ bnext.com.tw
 boardgamegeek.com
 bobopic.com
 bocchi.rocks
+bodu365.co
 boinbo.in
 boingboing.net
 bokeindo.com
@@ -1215,6 +1217,7 @@ darenjiazu.com
 darkanddarker.com
 darkgamer.com
 darkrooms.fandom.com
+databridgemarketresearch.com
 date-a-live-sc.jp
 datelinetaipei.blogspot.com
 davidsblueprint.com
@@ -1259,6 +1262,7 @@ devilcase.com.tw
 dexerto.com
 dfjav.com
 dgaqp.com
+dgbaccarat.com
 dgnet.com.tw
 dgy.la
 diablo2.io
@@ -1358,6 +1362,7 @@ dragonfuturenews.com
 dram.com.cn
 dream.bhuntr.com
 dreamcity.studio
+dreamzemg.com
 drop9bar.com
 drqq.business
 drqq.toys
@@ -2439,6 +2444,7 @@ infoq.cn
 ingrainedinc.co
 ingrose.com
 ingtt.com
+ingyupress.com
 inlook.com.tw
 inmediahk.net
 innaerc.com
@@ -3857,6 +3863,7 @@ perfectworld.com
 personal-view.com
 personality-database.com
 pexels.com
+phhua.com
 philomedium.com
 phoenixdarts.com
 phonearena.com
@@ -4064,6 +4071,7 @@ pyecontech.com
 qbitai.com
 qbnews.tw
 qcc.com
+qdnrbs.cn
 qek888.com
 qiandao.com
 qianfangzy.com
@@ -4208,6 +4216,7 @@ rouvket.com
 rouxiebao.com
 roveconcepts.com
 royaleapi.com
+royalevisa.com
 rrgod.com
 rrx.cn
 rthk.hk
@@ -4344,6 +4353,7 @@ sgpjbg.com
 shacom.tw
 shadowzo.com
 shalomtidings.org
+shandian.biz
 shangbao.com.ph
 shanghaiwaiwei.com
 shangyexinzhi.com
@@ -4378,6 +4388,7 @@ shinycolors.wiki
 shiravune.com
 shishenmegeng.com
 shitoubaike.org
+shobserver.com
 shoko0703.com
 shonenjumpplus.com
 shonm32.com
@@ -5136,6 +5147,7 @@ voacantonese.com
 voachinese.com
 voca.wiki
 vocadb.net
+vocaword.com
 vocus.cc
 vod365.net
 vogue.com.tw
@@ -5612,6 +5624,7 @@ zhswx.com
 zhuanzhuan.com
 zhuigeng.cc
 zi.media
+zichanpingu.com
 zihua.org.hk
 ziweixingming.com
 zixundingzhi.com
