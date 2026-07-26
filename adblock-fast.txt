@@ -23,8 +23,10 @@
 150v.com
 155384.co
 159i.net
+160.com
 163.com
 168gamesf.com
+16dota.com
 17.live
 17173.com
 177picyy.com
@@ -169,6 +171,7 @@
 69shuba.tw
 69vj.com
 6parknews.com
+6vdy.org
 7mmtv.sx
 7n5.net
 7xz.com
@@ -606,6 +609,7 @@ baraag.net
 barnesandnoble.com
 basketballtop5.com
 bastillepost.com
+battlenet.com.cn
 bau.com.hk
 baudrate.tw
 baxi2.com
@@ -918,6 +922,7 @@ changhuanews.com
 changsclub.com
 chanmoucomics.com
 chanyuan8.org
+chaofan.com
 chaos-giga.com
 chaturbate.com
 chaxunjiao.com
@@ -1231,6 +1236,10 @@ danmei.info
 danmei.xyz
 danmuxiu.cn
 daoinfo.org
+daota2.com.cn
+daotacf.com.cn
+daotaguanwang.com.cn
+daotagw.com.cn
 daradara.me
 darenjiazu.com
 darkanddarker.com
@@ -1351,10 +1360,13 @@ dorara.substack.com
 dos.zczc.cz
 dota2.com
 dota2.com.cn
+dota2ba.com.cn
 dota2gamers.gg
+dota2guofuguanwang.com.cn
 dota2protracker.com
 dota2rankings.com
 dotabuff.com
+dotacoach.gg
 dotdotnews.com
 dotesports.com
 dotlan.net
@@ -1699,6 +1711,7 @@ flyingtiger-cacw.com
 fm18plus.com
 fm947.com
 fm971.cn
+fnscore.cn
 fob.jp
 fodizi.tw
 foemovie.co.uk
@@ -3215,6 +3228,7 @@ matters.town
 maturetube.com
 maxjamesread.com
 maxjav.com
+maxjia.com
 maxroll.gg
 mbalib.com
 mc-toplist.com
@@ -4116,6 +4130,7 @@ pushguy.com
 pussyspace.com
 puzdlife.com
 pvideos.org
+pwesports.cn
 pyecontech.com
 qbitai.com
 qbnews.tw
@@ -4400,6 +4415,7 @@ sfacg.com
 sfccn.com
 sfmcompile.club
 sfunhk.com
+sgamer.com
 sgpjbg.com
 shacom.tw
 shadowzo.com
@@ -4885,6 +4901,7 @@ timotxt.com
 tinghao.moe
 tinyavideo.com
 tiohentai.com
+tips.gg
 titipjepang.com
 titizz.com
 tklab.club
@@ -5138,6 +5155,7 @@ v2ph.com
 v2rayclashfree.com
 v2raywin.com
 v5wow.com
+v66x66.com
 vanpeople.com
 vaynus.com
 vcc.g-cashier.com
@@ -5250,6 +5268,7 @@ wandoujia.com
 wangwusiwj.blogspot.com
 wanmei.com
 wannianli8.com
+wanplus.cn
 wanta.net
 wantgoo.com
 waou.com.mo
@@ -5453,6 +5472,7 @@ xiachufang.com
 xiakezhiting.com
 xiaochopin.github.io
 xiaohei.com
+xiaoheihe.cn
 xiaohongshu.com
 xiaomitoday.com
 xiaomitoday.it
