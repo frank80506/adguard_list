@@ -701,6 +701,7 @@ betanews.com
 bettertomorrowcentre.com
 beurlife.com
 beybladehunter.com
+bfage.com
 bff-studio.com
 bfnn.org
 bfqxzx.com
@@ -920,6 +921,7 @@ casetify.com
 cashboxparty.com
 cashify.in
 cass.com.tw
+castlekyalami.org.za
 catchplay.com
 catci.design.blog
 catfan.me
@@ -973,6 +975,7 @@ chance77now.me
 chancetpe.com
 changhuanews.com
 changsclub.com
+changyou.com
 chanmoucomics.com
 chanyuan8.org
 chaofan.com
@@ -1296,6 +1299,7 @@ dailybelle.com.tw
 dailybuild.app
 dailycold.tw
 dailyinsightcentral.com
+dailymail.com
 dailymotion.com
 dailynew.com.tw
 dailyview.tw
@@ -1522,6 +1526,7 @@ e-hentai.tube
 e-info.org.tw
 e-senseshop.com.tw
 earphoneman.com
+easck.net
 eastday.com
 eastmoney.com
 easy2tips.com
@@ -1556,6 +1561,7 @@ eettaiwan.com
 efight.jp
 eftarkov.com
 egameinsider.com
+egames.news
 egumilegacy.com
 egw.news
 ehentai.to
@@ -1669,6 +1675,7 @@ europeanmag.com
 evalue.com.tw
 eveonline.com
 everybodywiki.com
+everything.explained.today
 eveuniversity.org
 evexxx.me
 evojav.pro
@@ -2145,6 +2152,7 @@ grok.free
 grok3ai.org
 grokani.org
 grokani.xyz
+grokipedia.com
 grokmag.com
 gsmgotech.com
 gtv.com.tw
@@ -2894,6 +2902,7 @@ jishuoshuo.com
 jisu.tw
 jiuguishezhang.com
 jiulongzhigu.webnode.tw
+jiyx.com
 jjgirls.com
 jjnews.news
 jjwxc.com
@@ -2984,6 +2993,7 @@ kancolle-a.sega.jp
 kancolle-arcade.net
 kancolle.fandom.com
 kancollewiki.net
+kangehao.com
 kankelu.com
 kannetflix.com
 kanogoma.com
@@ -3441,6 +3451,7 @@ memes.tw
 memorys.com
 men.com
 mens-rinx.jp
+mentalfloss.com
 mentalwe.com
 mepai.me
 mercari.com
@@ -3532,6 +3543,7 @@ mmafighting.com
 mmdhentai.com
 mmdhub.net
 mmesh.news
+mmoculture.com
 mmoexp.com
 mmov.app
 mmstat.com
@@ -3842,6 +3854,7 @@ nmplus.hk
 nnhanman.xyz
 nnyy.tw
 no-gods-no-masters.com
+nodeseek.com
 noobfeed.com
 noodlemagazine.com
 nordvpn.com
@@ -4330,6 +4343,7 @@ qiandao.com
 qianfangzy.com
 qianlong.com
 qidian.com
+qieyou.com
 qijudashi.com
 qilexs.com
 qinglubai.top
@@ -4357,6 +4371,7 @@ quanwenyuedu.io
 qudong.com
 qudoumm.com
 quickporn.jp
+quierotv.mx
 quizlet.com
 qulishi.com
 quora.com
@@ -4542,14 +4557,34 @@ scholarsupdate.hi2net.com
 schoolidol.net
 schoolsaite.ru
 schwarzeni.com
+scientolipedia.org
+scientology-birmingham.org
+scientology-easterncape.org
+scientology-edinburgh.org
 scientology-fso.org
 scientology-kaohsiung.org
+scientology-losangeles.org
+scientology-melbourne.org
+scientology-miami.org
+scientology-newyork.org
+scientology-orlando.org
+scientology-perth.org
+scientology-research.org
+scientology-sanfrancisco.org
+scientology-sydney.org
+scientology-tampa.org
+scientology-ventura.org
+scientology-washingtondc.org
 scientology.net.tw
+scientology.org
 scientology.org.tw
+scientology.org.uk
 scientology.tv
 scientologycourses.org
 scientologymissions.org
+scientologynews.org
 scifijapan.com
+scnil.org
 scnks.org
 scntaoyuan.org
 scol.com.cn
@@ -4828,16 +4863,19 @@ stablecoin.com
 stackedgirls
 stagestubs.com
 stake.com
+standleague.org
 stardewvalleywiki.com
 starkidc.com
 starlabs.systems
 starmijan.com
 starnewskorea.com
 starnum.com.tw
+starryeagle.com
 starryferrybooks.com
 starsigns101.cc
 start-warhammer.com
 startingedu.com
+stason.org
 statementdog.com
 statsroyale.com
 stboy.net
@@ -5051,6 +5089,7 @@ thebestpicker.com
 thebetterandhra.com
 theblockbeats.info
 thechasernews.co.uk
+thedailybeast.com
 thefappeningblog.com
 thefinals.gg
 thefinals.wiki
@@ -5159,6 +5198,7 @@ tongren.me
 tongrenquan.org
 tongrenshe.cc
 tonyhuang39.com
+tonyortega.org
 tooj.tw
 toolify.ai
 toomics.com
@@ -5269,6 +5309,7 @@ tw100-2025.cwgv.org.tw
 tw789.net
 tw985.com
 twagoda.com
+twbni.com
 twbook.cc
 twcarpc.com
 twcenter.org.tw
@@ -5428,6 +5469,7 @@ vikacg.com
 viki.com
 villagevoice.com
 vimeo.com
+vinaire.me
 vineworkshop.com
 vintorte.com
 vinylhk.com
@@ -5577,6 +5619,7 @@ wetv.vip
 wforum.com
 wfuapp.com
 wfxs.tw
+whatisscientology.org
 whatscap.com
 whatsticker.online
 whbydcc.com
@@ -5595,6 +5638,7 @@ widget-club.com
 wifihifi.com
 wiki.yjsnpi.nu
 wiki101.com.tw
+wiki2.org
 wiki3.jp
 wikidata.org
 wikifur.com
@@ -5694,6 +5738,7 @@ xda-developers.com
 xdgxy.com
 xdpromotion.com
 xenqp.com
+xenu.net
 xfastest.com
 xfuliji.com
 xgcartoon.com
@@ -5907,6 +5952,7 @@ yunyaosinyuan.com
 yuri-heeseol.com
 yurianimenews.com
 yurizaka.com
+yushengbbs.net
 yutura.net
 yuyibuy.com
 yuzeli.com
