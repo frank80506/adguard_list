@@ -622,6 +622,7 @@ baihewenku.com
 baike.com
 baikehuo.com
 bailushuyuan.org
+baiyangtemple.com
 bakufu.jp
 bakugan.wiki
 bakugandb.com
@@ -653,6 +654,7 @@ baturu.cn
 bau.com.hk
 baudrate.tw
 baxi2.com
+bazicopy.com
 bbbobo.com.tw
 bbc.co.uk
 bbc.com
@@ -798,6 +800,7 @@ boardgamegeek.com
 bobopic.com
 bocchi.rocks
 bocimov.cc
+bodhixin.com
 bodu365.co
 boinbo.in
 boingboing.net
@@ -858,6 +861,7 @@ btdig.com
 btfinder.cc
 bubujp.com
 bubuu.com.tw
+buddhaspace.org
 buhitter.com
 bukkake.plus
 bukkakeura.com
@@ -1596,6 +1600,7 @@ engadget.com
 enjoy-nagata.jp
 enjoy-sharing-life.cc
 enjoymovie.net
+enlighten.org.tw
 enn.tw
 enpedia.org
 entertainment14.net
@@ -1622,6 +1627,7 @@ ereaderpro.co.uk
 erectix.com
 ergonomicsnerd.com
 ero-an.com
+ero-doujin-masterpiece-selection.blog.jp
 ero-labs.com
 ero-labs.live
 ero-mori.net
@@ -1679,6 +1685,7 @@ everything.explained.today
 eveuniversity.org
 evexxx.me
 evojav.pro
+evpukeblog.com
 exhentai.cn
 exhentai.net.br
 exhentai.org
@@ -2553,6 +2560,7 @@ i-kuantao.com
 i-media.tw
 i-meihua.com
 i.win.org.tw
+ia.tjc.org
 iamsissy.com
 iasmembership.org
 iautodaily.com
@@ -2601,6 +2609,7 @@ ikioi.blog.jp
 ikisoda.com
 ikmmh.com
 iknow.stpi.niar.org.tw
+iktc.edu.tw
 iktcds.edu.tw
 ikuantao.org.tw
 ikuncode.cc
@@ -3006,6 +3015,7 @@ kcwiki.cn
 kd-doll.com^$document
 kd-doll.org^$document
 kdays.net
+kdclub.net
 kdforums.com^$document
 ke.com
 keelunghihi.com.tw
@@ -3475,6 +3485,7 @@ mialiustudio.com
 michaelmchang.substack.com
 michtw.blogspot.com
 midnighteye.com
+mihoyo.com
 mikagogo.com
 mikalibrary.com
 mikeneko.moe
@@ -3703,6 +3714,7 @@ nanaoakari.com
 nanjideshijie.webnode.tw
 nanoreview.net
 nanovids.com
+nantongya.com
 narakathegame.com
 narconon.org
 narconon.org.tw
@@ -3848,6 +3860,7 @@ njav.tv
 njavtv.com
 njgdgy.com
 njkt.fun
+nkzy.com
 nmiagaming.com
 nmns.edu.tw
 nmplus.hk
@@ -4559,6 +4572,7 @@ schoolsaite.ru
 schwarzeni.com
 scientolipedia.org
 scientology-birmingham.org
+scientology-dallas.org
 scientology-easterncape.org
 scientology-edinburgh.org
 scientology-fso.org
@@ -4571,10 +4585,12 @@ scientology-orlando.org
 scientology-perth.org
 scientology-research.org
 scientology-sanfrancisco.org
+scientology-stuttgart.org
 scientology-sydney.org
 scientology-tampa.org
 scientology-ventura.org
 scientology-washingtondc.org
+scientology.de
 scientology.net.tw
 scientology.org
 scientology.org.tw
@@ -4662,6 +4678,7 @@ shapes.inc
 share4.tw
 shareba.com
 sharer.com.tw
+sharinglearner.blogspot.com
 sharonyes.com
 shawnyhc.blogspot.com
 shazam.com
@@ -5073,6 +5090,7 @@ textstudio.com
 tfaf.org.tw
 tfc-taiwan.org.tw
 tfd.org.tw
+tg.yitui2023.com
 tgblife.com.tw
 tgbus.com
 tgcchinese.org
@@ -5141,6 +5159,7 @@ thurrott.com
 thwiki.cc
 tiananmenduizhi.com
 tiangal.com
+tianhui.org.tw
 tianmimi.tv
 tianqi.com
 tiava.com
@@ -5855,6 +5874,7 @@ yandex.com
 yandex.com.tr
 yandex.ru
 yanglee.com
+yanguo.com.tw
 yankodesign.com
 yanoon.com.tw
 yanqing-hk.com
@@ -5932,6 +5952,7 @@ youxi369.com
 yq114514.com
 ysb-zh.com
 ysolife.com
+yu-de.weebly.com
 yu-eki.com
 yu-gi-oh.jp
 yuanhotoy.com
