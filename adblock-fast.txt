@@ -34,6 +34,10 @@
 163.com
 168gamesf.com
 16dota.com
+16dskbtypes.com
+16personalities.com
+16personalities.org.cn
+16type.com
 17.live
 17173.com
 1732.com
@@ -148,6 +152,7 @@
 4tube.com
 5000yan.com
 50353.5lxtv.com
+518.com.tw
 519640.com
 51acg.buzz
 51baoliao01.com
@@ -467,6 +472,7 @@ aomizuan.sakura.ne.jp
 aomstats.io
 aoxx69.net
 aoyukiblog.netlify.app
+apesk.com
 apidog.com
 apk.tw
 apkpure.com
@@ -553,6 +559,7 @@ at99app.tw
 atanews.net
 atanurmetal.com
 atelier-wini.blogspot.com
+atlas.com.tw
 atmovies.com.tw
 atoomu.net
 atsit.in
@@ -1606,6 +1613,7 @@ economist.com
 ecpro.tw
 ecywang.com
 eddibb.cc
+eddiesugoodlife.com
 edh.tw
 edigest.hk
 ednchina.com
@@ -1927,6 +1935,7 @@ freegame.tw
 freehentaistream.com
 freejavbt.com
 freejavtorrent.com
+freembtitest.org
 freeones.com
 freesteamkeys.com
 freewarehome.tw
@@ -2696,6 +2705,7 @@ illustbuy.com
 ima-ero.com
 imaple.co
 imarkettomo.cc
+imbti.org
 imdb.com
 imgflip.com
 imgurl.org
@@ -2708,6 +2718,7 @@ imyfone.com
 incgmedia.com
 indiatimes.com
 indiatoday.in
+indiegemhunter.com
 indienova.com
 indystar.com
 inewsdb.com
@@ -2742,6 +2753,7 @@ investing.com
 investopedia.com
 investor.com.tw
 investxiamen.org.cn
+iofomo.com
 iogames.games
 iogames.onl
 iogames.space
@@ -2968,6 +2980,7 @@ jdailyhk.com
 jdlingyu.com
 jendow.com.tw
 jetjam180414.livedoor.blog
+jetsostation.com
 jianshu.com
 jiaojianli.com
 jiaoyimao.com
@@ -3501,6 +3514,9 @@ maxjav.com
 maxjia.com
 maxroll.gg
 mbalib.com
+mbti-navi.com
+mbti.top
+mbti16personalities.com
 mc-toplist.com
 mcmod.cn
 mcnwx.com
@@ -4413,6 +4429,7 @@ pro360.com.tw
 projavhard.com
 project-imas.wiki
 projectjav.com
+projectmanager.com.tw
 proxima.tw
 prtimes.jp
 prts.wiki
@@ -4904,6 +4921,7 @@ skland.com
 sklyu.com
 skream.jp
 skrmicrotek.com
+sky-blue.com.tw
 skypost.hk
 skyreaderpapa.com
 sl-pc.org.tw
@@ -5157,6 +5175,7 @@ tansuo.in
 tao-teaching-light.blogspot.com
 taolibrary.com
 taosheng.com.tw
+taozhu.com.tw
 tapas.io
 taptap.cn
 taptap.io
@@ -5258,6 +5277,7 @@ theintellectual.net
 thekdaily.com
 theloadout.com
 themoviedb.org
+themyersbriggs.com
 thenewslens.com
 theotakumarket.com
 theouterhaven.net
@@ -5874,6 +5894,7 @@ wuwatracker.com
 wuyou.net
 wve.com.tw
 wvf.com.tw
+www-16personalities.com
 www.tlcomics.com
 wyblogs.eu.org
 wywyx.com
@@ -6183,7 +6204,6 @@ zhixin.com
 zhongchou.modian.com
 zhouenlai.info
 zhswx.com
-zhuanzhuan.com
 zhuigeng.cc
 zi.media
 zichanpingu.com
