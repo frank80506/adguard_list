@@ -9,14 +9,8 @@
 0xo.net
 0xzx.com
 1-kuan-tao.org.tw
-weibo.com
-playgame.wiki
-tyaward.com.tw
-rd.fharr.com
-sina.cn
 1000giribest.com
 1000novel.com
-zhihu.com
 100cup.com
 10100.com
 101kanshu.com
@@ -24,6 +18,7 @@ zhihu.com
 1111opt.com.tw
 11141.cn
 111com.net
+11recommend.com
 120ask.com
 12365auto.com
 12371.cn
@@ -42,6 +37,7 @@ zhihu.com
 15navi.com
 160.com
 163.com
+1688.com
 168gamesf.com
 16dota.com
 16dskbtypes.com
@@ -191,6 +187,7 @@ zhihu.com
 588ku.com
 591888.com.tw
 5ch-echiechi.doorblog.jp
+5ch.io
 5ch.net
 5chmatomex.com
 5dm.dev
@@ -204,6 +201,7 @@ zhihu.com
 66.ca
 666forum.com
 66ddxs.com
+66wz.com
 6723.info
 699pic.com
 69hsw.com
@@ -259,6 +257,7 @@ zhihu.com
 9711.tw
 9900.com.tw
 99csw.com
+99itv.tv
 9animetv.to
 9gag.com
 9game.cn
@@ -271,6 +270,7 @@ a41415.com
 a7la-home.com
 aajdv.com
 aastocks.com
+aayyy.net
 abc.net.au
 abc7.com
 abcdao.com
@@ -309,6 +309,7 @@ admin5.com
 adult-machiko.com
 adult.asoku.net
 adultgamingroom.com
+adultsmart.com.au
 aerobile.com
 afdian.com
 afkgaming.com
@@ -387,6 +388,7 @@ aminoapps.com
 amnesty.org
 amstcgf.com
 amtbhk.com
+amtbtn.org
 analysis.tw
 analyticsinsight.net
 anarchistlibraries.net
@@ -494,6 +496,7 @@ apesk.com
 apidog.com
 apk.tw
 apkpure.com
+apkz.com
 apnews.com
 app502aa.club
 appbrain.com
@@ -537,6 +540,8 @@ artale.tw
 artalemaplestory.com
 arteducation.com.tw
 artemperor.tw
+arthistorystrolls.com
+artist-magazine.com
 artistyj.com
 artjav.com
 artmap.com.hk
@@ -612,6 +617,7 @@ avday.app
 avdb-app.com
 avdbs.com
 avdouga-correct.net
+ave-mujica-images.pages.dev
 avfan02.com
 avfhd.com
 avfuuzoku.com
@@ -821,6 +827,7 @@ blacktealab.com
 blast.tv
 blessingeveryone.com
 blia.org.tw
+blisswisdom.org
 blitz.gg
 blizzard.cn
 blockcast.it
@@ -846,6 +853,7 @@ blu-ray.com
 blue-plus.net
 blue800.com
 bluearchive.wiki
+blueladytw.com
 bluestacks.com
 bluetrend.media
 bnacg.com
@@ -919,6 +927,7 @@ btfinder.cc
 bubujp.com
 bubuu.com.tw
 buddhaspace.org
+buddhistdoor.org
 bufan.com
 buhitter.com
 bukkake.plus
@@ -1007,6 +1016,7 @@ cc-times.com
 cc18.tv
 ccany.fhl.net
 ccbiblestudy.org
+cccloudphone.com
 ccfd.org.tw
 ccgxk.com
 cchc-herald.org
@@ -1388,6 +1398,7 @@ dailyview.tw
 daipai.tw
 dakedake.com
 dakkadakka.com
+dalailamaworld.com
 dalaoweb.top
 dali58.net
 damplips.com
@@ -1396,6 +1407,7 @@ dancihu.com
 danmei.info
 danmei.xyz
 danmuxiu.cn
+danslegris.com
 daoinfo.org
 daota2.com.cn
 daotacf.com.cn
@@ -1472,6 +1484,7 @@ dianping.com
 dieoff.org
 difangwenge.org
 digfamily.com
+digforfire.net
 digiket.com
 digimons.net
 digit.in
@@ -1482,6 +1495,7 @@ digitalorigin.tw
 digitaltrends.com
 digitalyoming.com
 digitimes.com.tw
+diguogames88.com
 diklearn.com
 dimtown.com
 dingdian888.com
@@ -1489,6 +1503,7 @@ dingmanhua.com
 disc.shionet.tw
 discoverseoulpass.com
 discuss.com.hk
+disneyplus.com
 disp.cc
 diversinet.com
 divineplan.org
@@ -1499,6 +1514,7 @@ dldou.com
 dlsite.com
 dltv.org
 dlwatcher.com
+dm5.cn
 dm5.com
 dmagazine.com
 dmfc002.cc
@@ -1583,6 +1599,7 @@ drug-frees.com
 drxsw.com
 ds-hk.net
 ds-learning.com
+ds543.home.blog
 dssm.me
 dswxyjy.org.cn
 dsys8.best
@@ -1598,6 +1615,8 @@ dunenavigator.com
 duote.com
 duotegame.com
 dupisces.com.tw
+durio.asia
+durio.sg
 dushu.com
 dushupai.com
 dvber.co.uk
@@ -1676,6 +1695,7 @@ ek21.com
 ekkorn.com
 electrify.tw
 elfartworld.com
+elfgames24h.com
 elish-nbf.net
 elitebabes.com
 eliteporno.com
@@ -1889,6 +1909,7 @@ figostoy.com
 filehorse.com
 filmaholic.tw
 filmarks.com
+filmcritics.org.hk
 filmflow.tv
 filmjepang.it.com
 filmjepangku.online
@@ -2155,12 +2176,14 @@ genape.ai
 gengdd.com
 gengtu.net
 genshinh.com
+geshetp.com
 getchu.com
 getit01.com
 getoffdrugs.org.tw
 gettyimages.co.jp^$document
 gettyimages.hk
 getyarn.io
+gf-tonight.com
 gf2.pde.tw
 gg.bet
 gg.deals
@@ -2212,6 +2235,7 @@ gmline.tw
 gmw.cn
 gnlore.com
 gnn.gamer.com.tw^$document
+go-gacha.com
 go-gddq.com
 godgame.com.tw
 gofreebooks.com.tw
@@ -2223,6 +2247,7 @@ gojistudios.com.hk
 gold-gay.com
 goldtits.com
 golla.tw
+gongjucha.com
 gongzicp.com
 gonintendo.com
 good-gay.com
@@ -2334,6 +2359,7 @@ haho.moe
 hahow.in
 haikuo.com.tw
 haitenjp.com
+haitunsou.com
 haiwaidaquan.com
 haixia-info.com
 haiyuangabiou.com
@@ -2398,6 +2424,7 @@ hdybjy.com
 headline01.com
 healing-museum.com
 health.esdlife.com
+health010.tw
 heavyfetish.com
 hebrewbiblestudy.org
 hebrewjourney.org
@@ -2547,6 +2574,7 @@ hk01.com
 hk24h.com
 hkacger.com
 hkbookcity.com
+hkbuddhist.org
 hkcd.com
 hkcd.com.hk
 hkcinema.cn
@@ -2616,6 +2644,7 @@ hoomedia.com.tw
 hopenglish.com
 horace.org
 hornet.com
+horny.sg
 hornyjav.com
 hornyjav.net
 host4fap.com
@@ -2658,6 +2687,7 @@ hua-meng.com
 huaban.com
 huacheng.gz-cmc.com
 huaglad.com
+huajia.cc
 hualien-news.com
 huananxs.top
 huanmengacg.com
@@ -2858,6 +2888,8 @@ iwantcard.tw
 iwara.tv
 iwf.org.uk
 iwin.com
+iwinimc.com
+iwinsofficial.com
 ixdzs.hk
 ixdzs.tw
 ixdzs8.com
@@ -3299,6 +3331,7 @@ kxx.moe
 kyonyu-eroi.com
 kyy.lol
 la-place.ca
+labavo.com.tw
 lacopaoscura.com
 lafrontiers.com
 lag-darma.com
@@ -3332,6 +3365,7 @@ league-funny.com
 leagueofgraphs.com
 leagueoflegends.cc
 leagueoflegends.com
+learningteamsix.blogspot.com
 learnoutlive.com
 leatai.net
 leawo.org
@@ -3347,6 +3381,7 @@ lepenseur.com.tw
 lessonsfromdigital.com
 letmeknow.cc
 letsfilm.org
+letsharu.com
 lewd.ninja
 lewdspot.com
 lewdvrgames.com
@@ -3490,12 +3525,15 @@ ma-usa-uni.com
 mabi.labanyu.com
 macaumemory.mo
 maccos.jp
+macdownload.informer.com
 machogaytube.com
 machotube.tv
 maclove.co
+macmenubar.com
 macrocosm.tw
 macromicro.me
 macrumors.com
+macspencer.app
 macworld.com
 madamefigaro.hk
 madaxs.com
@@ -3558,6 +3596,7 @@ maonkurosaki.com
 mapgun.com
 maplestw.com
 marboweekly.com.tw
+marcelochong.wordpress.com
 marieclaire.com.tw
 marketersgo.com
 marketwatch.com
@@ -3703,6 +3742,7 @@ minnano-av.com
 minzhuzhongguo.org
 miohentai.com
 miraheze.org
+miraitokyo.jp
 mirrordaily.news
 mirrorfiction.com
 mirrormedia.mg
@@ -3747,6 +3787,7 @@ mmstat.com
 mnews.tw
 mnewstv.com
 mnya.tw
+mobanduoduo.com
 mobile-xvideos.com
 mobile01.com
 mobilemagazinehk.com
@@ -3805,7 +3846,9 @@ mousepad.moe
 movergames.com
 movieffm.net
 moviefone.com
+moviemovie.com.hk
 moviewiser.com
+mox.moe
 moyu.moe
 mp4hentai.com
 mpsony.com
@@ -3832,6 +3875,7 @@ muchohentai.com
 muchohentai.tv
 multhentai.org
 multporn.net
+mumuplayer.com
 mundobytes.com
 mundohentaioficial.com
 murax2.com
@@ -3924,6 +3968,7 @@ nbcnews.com
 nbjp.com
 nboxin.com
 ncbase.net
+nci-studios.com
 ncnd.net
 ncsoft.com
 nearhentai.com
@@ -4059,6 +4104,7 @@ nmiagaming.com
 nmns.edu.tw
 nmplus.hk
 nnhanman.xyz
+nnyy.in
 nnyy.tw
 no-gods-no-masters.com
 nodeseek.com
@@ -4088,6 +4134,7 @@ nowplay8.com
 nowre.com
 noy1.top
 nozomi.la
+npac-ntch.org
 npf.org.tw
 npost.tw
 npr.org
@@ -4184,6 +4231,7 @@ onaholand.com
 onahole.com
 onaholeblog.com
 onaholecom.myshopify.com
+onaholestation.com
 onanist.net
 oncehuman.game
 one1taly.com
@@ -4318,7 +4366,9 @@ pcsoft.com.cn
 pctechtest.com
 pcworld.com
 pdfzj.com
+peakbooks.cc
 peccadille.net
+peekme.cc
 peeping-voyeur.com
 peggytarot.com
 peigenesis.com
@@ -4497,6 +4547,7 @@ post76.hk
 powerslap.com
 pp39.cn
 ppfocus.com
+ppgame.tw
 ppp.porn
 ppsports.com
 ppter8.com
@@ -4532,9 +4583,11 @@ pts.org.tw
 ptsplus.tv
 ptt-club.com.tw
 ptt-fitness.tw
+ptt-life.com
 ptt-moments.tw
 ptt-music.tw
 ptt-opinion.tw
+ptt-politics.com
 ptt-reviews.cc
 ptt-talk.tw
 ptt-techjob.tw
@@ -4544,8 +4597,10 @@ ptt.org.tw
 ptt.pink
 ptt.reviews
 pttbuy.tw
+pttcomic.com
 pttcomics.com
 pttpedia.fandom.com
+pttplay.net
 pttstock.tw
 pttsuperstar.com
 pttweb.cc
@@ -4579,6 +4634,7 @@ qidian.com
 qieyou.com
 qijudashi.com
 qilexs.com
+qimao.com
 qingdaonews.com
 qingganxinli.museglove.com
 qinglubai.top
@@ -4652,6 +4708,7 @@ readr.tw
 readyjapan.info
 real-man-pro.com
 rebelstore.net
+rebobar.com
 redbeanime.com
 redbull.com
 redchinacn.net
@@ -4662,6 +4719,7 @@ rednet.cn
 redplanx.com
 redtube.com
 redwap.sex
+reecesrainbow.org
 reelshort.com
 regengbaike.com
 rekowiki.org
@@ -4700,6 +4758,7 @@ rightplus.org
 rightshopaudiohk.com
 rikei-danshi.work
 riotgames.com
+rise-mediacorp.com
 rise-tw.org
 riss.kr
 riss4u.net
@@ -4991,7 +5050,6 @@ sinchew.com.my
 singaporecomiccon.com
 singdr.com
 singlelifelog.com
-ymgal.games
 singtao.ca
 singtaousa.com
 sino-manager.com
@@ -5052,6 +5110,7 @@ snohomishcountywa.gov
 snopes.com
 snwxw.com
 so.com
+soapempirejapan.com
 sobooks.cc
 socialblade.com
 socigames.com
@@ -5117,6 +5176,7 @@ squeez-soft.sakura.ne.jp
 sqxrmyy.com
 srsg.moe
 srworld.net
+ssbuy.tw
 ssbwiki.com
 sshs.pw
 ssmhw.com
@@ -5193,6 +5253,7 @@ sunchateau.com
 sunday-webry.com
 sundaykiss.com
 sundaymore.com
+sundaynews.tw
 sungo.tw
 suning.com
 suninlife.waca.tw
@@ -5279,6 +5340,7 @@ tangpc.com.tw
 tanmizhi.com
 tansuo.in
 tao-teaching-light.blogspot.com
+taobao.com
 taolibrary.com
 taosheng.com.tw
 taozhu.com.tw
@@ -5341,6 +5403,7 @@ telegramporn.red
 tencent.com
 tenday.tw
 tenor.com
+tenorshare.com
 tenorshare.tw
 tensei-yabuki.hatenablog.com
 tensor.art
@@ -5367,7 +5430,9 @@ thebestpicker.com
 thebetterandhra.com
 theblockbeats.info
 thechasernews.co.uk
+thecover.cn
 thedailybeast.com
+thefancycrow.com
 thefappeningblog.com
 thefinals.gg
 thefinals.wiki
@@ -5394,6 +5459,7 @@ theporndude.com
 thepornmap.com
 therainbow.hk
 thersmedia.com
+thesamurainight.com
 theshortcut.com
 thesnakesoup.org
 thespaceknowledge.com
@@ -5507,6 +5573,7 @@ toutiao.com
 toy-people.com
 toyc.com.hk
 toydemon.co
+toydemon.com
 toyempire.com.tw
 toyer-gk.com
 toyking.com.tw
@@ -5534,6 +5601,7 @@ trannyclips.com
 trannytube.tv
 transbiz.com.tw
 transfermarkt.com
+translators.com.cn
 travel.line.me
 travel103.com
 travel366days.com
@@ -5550,6 +5618,7 @@ tripvivid.com
 trouble-care.com
 truckersmp.com
 trustedreviews.com
+truth-light.org.hk
 truthmonthly.com
 truyen-hentai.com
 trxs.cc
@@ -5560,6 +5629,7 @@ tsna.com
 tsunagujapan.com
 tsunkit.net
 tt1069.com
+ttcoder.cn
 ttfun.com.tw
 ttk.tw
 ttkmh.com
@@ -5635,6 +5705,7 @@ twwiki.net
 twxiaoshuo.com
 twxs.com.tw
 txxx.com
+tyaward.com.tw
 tyenews.com
 typica.coffee
 tzturtle.moe
@@ -5643,6 +5714,7 @@ u-car.com.tw
 u-headphone.com
 u.gg
 u20av.com
+u2mtv.com
 u369.tw
 uanalyze.com.tw
 ubmh.wikidot.com
@@ -5720,6 +5792,7 @@ v2rayclashfree.com
 v2raywin.com
 v5wow.com
 v66x66.com
+vannyma.com
 vanpeople.com
 vava8.com
 vaynus.com
@@ -5892,6 +5965,7 @@ wedoany.com
 weekendhk.com
 weiai.ai
 weibo.com
+weidian.com
 weisharelife.com
 weiyinfu.cn
 wellent.com
@@ -5968,6 +6042,7 @@ wiwi.blog
 wiz-xth.com
 wjx.cn
 wmanhua.com
+wmoov.com
 wnacg.com
 womany.net
 womenshealthmag.com
@@ -6155,6 +6230,7 @@ yabaionna.com
 yabeline.tw
 yabook.org
 yac8.com
+yachiyo.hk
 yahoo.co.jp
 yakuruto67.livedoor.blog
 yam.com
@@ -6184,6 +6260,7 @@ ydn.com.tw
 yeduge.com
 yeduji.com
 yeedao.org
+yeriben.com
 yesasia.com
 yesky.com
 yesmedia.com.tw
@@ -6302,6 +6379,7 @@ zeelive.com.tw
 zekamashi.net
 zeldadungeon.net
 zeldauniverse.net
+zen1976.com
 zenhui.com
 zenplus.jp
 zenporn.com
