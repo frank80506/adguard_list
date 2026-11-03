@@ -277,6 +277,7 @@ aayyy.net
 abc.net.au
 abc7.com
 abcdao.com
+abcnews.com
 abcnews.go.com
 abema.tv
 abgcrot.stream
@@ -300,6 +301,7 @@ acgnla.com
 acgnx.se
 acgrip.com
 acgrx.com
+acgsecrets.hk
 acgwiki.tw
 acgxmh.com
 acgyyg.ru
@@ -348,6 +350,7 @@ aisixiang.com
 aitalo.com
 aiwahu.tw
 aixiansoo.com
+aja.gr.jp
 ajadedgay.com
 ajianpingce.com
 ajianpingce.org
@@ -404,6 +407,7 @@ androidcentral.com
 androidguias.com
 androidpolice.com
 andycards.it
+andyjs3.xyz
 anfensi.com
 angel-gto.com
 angelfly.com.tw
@@ -430,17 +434,21 @@ animal-friendly.co
 animal-friendly.co^$document
 animanch.com
 animate-onlineshop.jp
+animatetimes.com
+animationid.com
 animationmagazine.net
 animattoys.com
 anime-dandadan.com
 anime-planet.com
 anime-sharing.com
+anime-sommelier.com
 anime1.cc
 anime1.in
 anime1.me
 animecharactersdatabase.com
 animecons.com
 animecorner.me
+animedb.jp
 animefreak.to
 animegearguru.com
 animehentaihub.com
@@ -760,6 +768,7 @@ bestlaptop.deals
 bestproducts.com
 bestreviews.com
 betanews.com
+betermondo.com
 bettertomorrowcentre.com
 beurlife.com
 beybladehunter.com
@@ -895,7 +904,6 @@ bookstv.com.tw
 bookszw.com
 booth.pm
 boriquachicks.com
-substack.com
 botanwang.com
 bottleneko.app
 box168.tw
@@ -1007,6 +1015,7 @@ catchplay.com
 catci.design.blog
 catfan.me
 catholic.com
+catholic.org.hk
 catholic.org.tw
 catholicculture.org
 catholiceducation.org
@@ -1078,6 +1087,7 @@ cherstravel.com
 chiaki.site
 chichi-pui.com
 chiculture.org.hk
+chiefsun.org.tw
 chii.in
 chijooneisan.blog.2nt.com
 chil-chil.net
@@ -1167,6 +1177,7 @@ clarisonic.com.tw
 clash.services
 clashv2ray.com
 classicgamezone.com
+clever99.com
 cleverget.jp
 click108.com.tw
 clickme.net
@@ -1270,6 +1281,7 @@ coreynote.life
 cos.linlinsat.net
 cos.lycore.co
 coskaomission.org
+cosmiccare.org
 cosmopolitan.com
 cosmopolitan.com.hk
 cosmostore.org
@@ -1284,6 +1296,7 @@ cospuri.com
 cossex.com
 cosxplay.com
 cosz.com
+cothinker.com
 countrymeters.info
 cour89.com
 couriernewsroom.com
@@ -1377,6 +1390,7 @@ cyol.com
 cytekbio.com.cn
 cytoid.io
 czbooks.net
+czc.info
 czyleo.com
 d2jsp.org
 d2r.runewords.org
@@ -1428,6 +1442,7 @@ darkrooms.fandom.com
 databridgemarketresearch.com
 date-a-live-sc.jp
 datelinetaipei.blogspot.com
+datsupachi.com
 davidsblueprint.com
 daxiang-cm.com
 daxiang.io
@@ -1450,9 +1465,11 @@ ddm.org.tw
 ddooo.com
 ddsearch.jp
 ddtoytown.com.tw
+ddys.io
 dealmoon.com
 deeplol.gg
 deepsmile.info
+deerpark.app
 deezer.com
 delachieve.com
 delarroz.com
@@ -1525,6 +1542,7 @@ dm5.cn
 dm5.com
 dmagazine.com
 dmfc002.cc
+dmhy.org
 dmm.com
 dmmdoujinn.com
 dmowiki.com
@@ -1553,6 +1571,7 @@ dongwangask.com
 dongxins.com
 donmai.moe
 donotaku.com
+doosho.com
 dopple.ai
 dorama.info
 dorama9.com
@@ -1594,6 +1613,7 @@ dpporn.com
 dra-3c.com
 dragonfuturenews.com
 dram.com.cn
+dranime.net
 dream.bhuntr.com
 dreamcity.studio
 dreamzemg.com
@@ -1656,6 +1676,7 @@ easyfang.com
 easylife.tw
 easyshop.com.tw
 easytimes.tw
+easyusevpn.com
 eatmary.net
 ebay.ca
 ebay.com
@@ -1677,6 +1698,7 @@ eddiesugoodlife.com
 edh.tw
 edigest.hk
 ednchina.com
+ednovas.xyz
 edvd9.com
 eeebang.com
 eeo.today
@@ -1694,6 +1716,7 @@ ehobby.com.tw
 ehobbyshop.com.tw
 ehwiki.org
 eiga-manga.com
+eiga.com
 eigachannel.jp
 einkopedia.com
 ejtech.ai
@@ -1814,6 +1837,7 @@ exhentai.cn
 exhentai.net.br
 exhentai.org
 exp.gg
+expecthim.com
 expertbeacon.com
 expressen.se
 expressvpn.com
@@ -1902,6 +1926,7 @@ fengloua.com
 fengshows.com
 fenoxo.com
 ffomu.com
+ffqla.com
 ffxiv.com.tw
 ffxivtwpromote.com
 fgo.news
@@ -2053,6 +2078,7 @@ fuzoku.jp
 fwmcbaubau.com
 fx168news.com
 fx678.com
+fxjzcom.wordpress.com
 fxykx.com
 fy.szu.edu.cn
 fycd.org
@@ -2149,6 +2175,7 @@ gaoshuba.com
 gaoxiaojob.com
 garena.tw
 garian.hk
+garibaldimeuccimuseum.com
 gas-web.com
 gate.com
 gateofbabylon.com.tw
@@ -2584,6 +2611,8 @@ hk.news.yahoo.com
 hk01.com
 hk24h.com
 hkacger.com
+hkaiw.com
+hkanime.com
 hkbookcity.com
 hkbuddhist.org
 hkcd.com
@@ -2660,6 +2689,7 @@ hornyjav.com
 hornyjav.net
 host4fap.com
 hostbbs.net
+hostloc.com
 hot-cartoon.com
 hot-xnxx-videos.com
 hotaigo.com.tw
@@ -2721,7 +2751,9 @@ huxiu.com
 huya.com
 hwcpb.com
 hwjyw.com
+hwxnet.com
 hxnews.com
+hxsd.tv
 hymnal.net
 hypebeast.com
 hypergryph.com
@@ -2750,6 +2782,7 @@ ichurch.cc
 icloudnews.net
 icoco.tw
 iconmonstr.com
+idcbest.com
 idol.st
 idolfap.com
 idolmaster-official.jp
@@ -2888,6 +2921,7 @@ itedou.com
 ithome.com
 ithome.com.tw
 itis.org.tw
+itlanyan.com
 itmop.com
 itsacg.com
 itsfun.com.tw
@@ -2918,6 +2952,7 @@ izuiyou.com
 j-media.tw
 j9fifa.com
 jable.tv
+jackwts.tw
 jade-net-home.com
 jandan.net
 janitorai.com
@@ -3095,10 +3130,12 @@ jianshu.com
 jiaojianli.com
 jiaoyimao.com
 jiburi.com
+jichangtuijian.com
 jiedm.com
 jiemian.com
 jieyues.com
 jijidown.com
+jikipedia.com
 jiliuwang.net
 jilu.le.com
 jimei123.com
@@ -3132,6 +3169,7 @@ jljh.com.tw
 jmaygirls.com
 joelin.cc
 jogeek.com
+johntool.com
 johren.games
 join.gov.tw
 joinquant.com
@@ -3246,6 +3284,7 @@ kidsmedia.com.tw
 kiganatsuno.com
 kikinote.net
 kimochi.info
+kimu3.net
 kingautos.net
 kingstone.com.tw^$document
 kingtop.com.tw
@@ -3339,6 +3378,7 @@ kurogames.com
 kurousagi-investor.com
 kurozora.app
 kutv.com
+kuzu-kagami.blogspot.com
 kxkmh.xyz
 kxmanhua.com
 kxx.moe
@@ -3452,6 +3492,7 @@ linux-terminal.com
 linux.do
 linuxadictos.com
 linuxiac.com
+linuxssr.com
 linuxvox.com
 linzijun.app
 liquipedia.net
@@ -3655,6 +3696,7 @@ mcnwx.com
 mdav.art
 mdggcm.com
 mdpr.jp
+mdzs.jp
 meaegi.com
 measisblog.wordpress.com
 meatfish.store
@@ -3695,6 +3737,7 @@ memeon-music.com
 memereference.com
 memes.com
 memes.tw
+memoryfun3.com
 memorys.com
 men.com
 mens-rinx.jp
@@ -3714,6 +3757,7 @@ mfuns.net
 mgal.games
 mgs.fc2動画.net
 mgstage.com
+mgtv.com
 mh5.tw
 mhnews.com.cn
 mhw.wiki-db.com
@@ -3731,6 +3775,7 @@ miliav.com
 milk.com.hk
 milkfactory.jp
 millionbook.net
+milu.com
 mimigo.cc
 mimiiblog.com
 mimisextoys.com
@@ -3831,6 +3876,7 @@ mojevideo.sk
 mojoin.com
 momdadstory.com
 momo-d.jp
+momokami.net
 momon-ga.com
 momoniji.com
 momostarry.com
@@ -3931,6 +3977,7 @@ mypeoplevol.com
 mypikpak.com
 myplus.com.tw
 myprotein.cn
+myptt.cc
 myra2.com
 myrenta.com
 myself-bbs.com
@@ -4314,6 +4361,7 @@ outerlog.com
 outsiders.com.tw
 overclock3d.net
 overkill.wtf
+overwallvpn.com
 ovojav.com
 ovojav.net
 owlting.com
@@ -4506,6 +4554,7 @@ politico.com
 politico.eu
 polls.com.tw
 polygon.com
+pongo.com.tw
 poone.app
 poop.rip
 poopeegirls.com
@@ -4591,6 +4640,7 @@ projectmanager.com.tw
 proxima.tw
 prtimes.jp
 prts.wiki
+ps288.com
 psofficial.com
 psu.com
 psvita.top
@@ -4623,6 +4673,7 @@ pttsuperstar.com
 pttweb.cc
 pttweb.tw
 pttyes.com
+puchipurabu.com
 pufeimh.com
 pulamo.com.tw
 pulsehknews.com
@@ -4658,6 +4709,7 @@ qinglubai.top
 qingse.one
 qiqimanhua.com
 qiubiaoqing.com
+qiufengshuwu.com
 qiumiwu.com
 qjyouth.com
 qk31.com
@@ -4708,6 +4760,7 @@ ramen.events
 randomdecider.com
 ranker.com
 ranking-deli.jp
+ranking.works
 rapbull.net
 rape.konnokai.me
 raspberrytips.com
@@ -4739,6 +4792,7 @@ redtube.com
 redwap.sex
 reecesrainbow.org
 reelshort.com
+reezon.github.io
 regengbaike.com
 rekowiki.org
 remapradio.com
@@ -4795,6 +4849,7 @@ rojiuragame.com
 rokuhentai.com
 rolimons.com
 rollingstone.com
+romance.io
 romcomics.net
 roo.cash
 rookie-av.jp
@@ -4923,6 +4978,7 @@ screenrant.com
 scribd.com
 scrolller.com
 sctx.com
+sculptors.jp
 sdareso.com
 seaart.ai
 seadepthstudio.com
@@ -4934,6 +4990,7 @@ secretchina.com
 secretsfromyoursister.com
 seegc.com.tw
 seesaawiki.jp
+segmentfault.com
 seikuu.com
 seinsights.asia
 seiya-saiga.com
@@ -5020,12 +5077,14 @@ shidianguji.com
 shifucare.com
 shihuo.cn
 shinagawa-five.jp
+shindanmaker.com
 shineloving.com
 shinya-no-ippon.com
 shinycolors.wiki
 shiravune.com
 shishenmegeng.com
 shitoubaike.org
+shluqu.github.io
 shobserver.com
 shoko0703.com
 shonenjumpplus.com
@@ -5063,6 +5122,7 @@ simply-hentai.com
 simplyhentai.org
 simplymac.com
 simplyputpsych.co.uk
+simplywall.st
 simular.co
 sina.cn
 sina.com.cn
@@ -5202,6 +5262,7 @@ ssbwiki.com
 sshs.pw
 ssmhw.com
 sspai.com
+ssr.tools
 ssrpeach.com
 ssrplus.org
 stablecoin.com
@@ -5265,7 +5326,9 @@ stylemaster.com.tw
 styletc.com
 styletoy.com.tw
 subscribercounter.com
+substack.com
 subtitletrans.com
+suenen.com
 sufficientvelocity.com
 suki.cc
 sumimi.com
@@ -5357,6 +5420,7 @@ talkie-ai.com
 tama-crystal.com
 tamashiiweb.com
 tamatoys.asia
+tang-seo.com
 tangpc.com
 tangpc.com.tw
 tanmizhi.com
@@ -5646,6 +5710,7 @@ tsai-jen.com
 tsaitruee.com
 tscentral.com
 tsna.com
+tsumanne.net
 tsunagujapan.com
 tsunkit.net
 tt1069.com
@@ -5806,6 +5871,7 @@ uuum.jp
 uwowcn.com
 uzzf.com
 v1.cn
+v2cross.com
 v2ex.com
 v2ob.com
 v2ph.com
@@ -5900,6 +5966,7 @@ voxhour.com
 voyeurok.com
 vpnclub.cc
 vpnmentor.com
+vpnnode.net
 vrcw.net
 vrgiantess.com
 vroid.com
@@ -5928,6 +5995,7 @@ waiweimei.com
 wakame.tw
 wakwb.com
 walkerland.com.tw
+wallmama.com
 wallstreetcn.com
 wamumov.cc
 wandoujia.com
@@ -6108,6 +6176,7 @@ wuwatracker.com
 wuyou.net
 wve.com.tw
 wvf.com.tw
+wwbible.org
 www-16personalities.com
 www.tlcomics.com
 wyblogs.eu.org
@@ -6319,6 +6388,7 @@ yixue.com
 yjbys.com
 yjzyz.com
 ymgal.games
+ymvid.com
 yoasobi-heaven.com
 yodu.org
 yohofate.my
@@ -6340,6 +6410,7 @@ youpress.jp
 your.gg
 youranimes.tw
 youravhost.net
+yourbookerl.com
 youren5.com
 yourofficegear.com
 yourui0604.blogspot.com
