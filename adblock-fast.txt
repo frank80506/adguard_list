@@ -451,6 +451,7 @@ anime-sommelier.com
 anime1.cc
 anime1.in
 anime1.me
+anime1.one
 animecharactersdatabase.com
 animecons.com
 animecorner.me
@@ -881,6 +882,7 @@ bluearchive.wiki
 blueladytw.com
 bluestacks.com
 bluetrend.media
+bmcx.com
 bnacg.com
 bnext.com.tw
 boardend.com
@@ -993,6 +995,7 @@ caixin.com
 cake.me
 calc114514.vercel.app
 calculife.com
+callcarbar.com.tw
 callmeimei.com
 camelcamelcamel.com
 cameo.com
@@ -1151,6 +1154,7 @@ chnnews-tv.com
 chobit.cc
 chongbuluo.com
 choozseo.com
+chowdera.com
 chowsangsang.com
 christianpure.com
 christianstudy.com
@@ -1634,6 +1638,7 @@ dpporn.com
 dra-3c.com
 dragonfuturenews.com
 dram.com.cn
+dramasq.io
 dranime.net
 dream.bhuntr.com
 dreamcity.studio
@@ -1849,6 +1854,7 @@ ettoday.net
 etubeporn.com
 europeanmag.com
 evalue.com.tw
+eventsinfocus.org
 eveonline.com
 everybodywiki.com
 everything.explained.today
@@ -1944,6 +1950,7 @@ feiniaoks.com
 feishu.cn
 feitsui.com
 feizai.club
+feja.org.tw
 fenderlining.com
 fengchemh.com
 fengloua.com
@@ -2219,6 +2226,7 @@ gaypornvidsxxx.com
 gbimonthly.com
 gbyhn.com.tw
 gcores.com
+gdaily.org
 gdragon.ai
 gearfaves.com
 gearsonline.net
@@ -2495,6 +2503,7 @@ hebrewjourney.org
 hef.org.tw
 hehagame.com
 hehesheng.com
+heiliao88.com
 hekatv.cc
 hellomissdebbie.com
 helpdeskgeek.com
@@ -2953,6 +2962,7 @@ ithome.com
 ithome.com.tw
 itis.org.tw
 itlanyan.com
+itmeow77.com
 itmop.com
 itsacg.com
 itsfun.com.tw
@@ -3158,6 +3168,8 @@ jendow.com.tw
 jessicahk.com
 jetjam180414.livedoor.blog
 jetsostation.com
+jgospel.net
+jianpu.cn
 jianshu.com
 jiaojianli.com
 jiaoyimao.com
@@ -3178,6 +3190,7 @@ jinghooo.com
 jingtuitui.com
 jinkela.app
 jinwen.net
+jiosaavn.com
 jiqizhixin.com
 jiroumh.com
 jisakuhibi.jp
@@ -3761,6 +3774,7 @@ meijumi.net
 meimog.com
 meipian.cn
 meishiw123.com
+meitizhi.com
 meituan.com
 melmagazine.com
 melonbooks.co.jp
@@ -4063,6 +4077,7 @@ natalie.mu
 natgeomedia.com^$document
 naughtyhentai.com
 nautiljon.com
+nav.newrank.cn
 nazaaracircle.com
 nba-japan.com
 nba2klab.com
@@ -4483,6 +4498,7 @@ peakbooks.cc
 peccadille.net
 peekme.cc
 peeping-voyeur.com
+pegasus.hk
 peggytarot.com
 peigenesis.com
 penana.com
@@ -4562,6 +4578,7 @@ play-asia.com
 playblackdesert.com
 playboard.co
 playersclubhk.com
+playfun7.com
 playgame.wiki
 playhorny.com
 playism.com
@@ -4575,6 +4592,7 @@ pleasurepoint.store
 plex.tv
 plingcast.com
 plurk.com
+pmtone.com
 pngtree.com
 pnzsw.com
 po-kaki-to.com
@@ -5091,6 +5109,7 @@ sfunhk.com
 sgamer.com
 sgpjbg.com
 shacom.tw
+shadowingszy.top
 shadowzo.com
 shalomtidings.org
 shandian.biz
@@ -5265,6 +5284,7 @@ solarck.com
 soler.com.tw
 solink.soundon.fm
 solitairetime.com
+somenews.space
 sonder.com
 sonomanga.blog
 soogif.com
@@ -5524,6 +5544,7 @@ techcult.com
 techduker.org
 techedt.com
 techfinitive.com
+techflowpost.com
 techgearlab.com
 techjuice.pk
 technews.tw
@@ -6170,6 +6191,7 @@ wiki2.org
 wiki3.jp
 wikidata.org
 wikifur.com
+wikifx.com
 wikimedia.org
 wikipedia.org
 wikiquote.org
@@ -6365,6 +6387,7 @@ xtreme-gaming-dota2.com
 xtrojan.net
 xtrojan.vip
 xuanchengtech.myds.me
+xue8nav.com
 xuefo.net
 xueqiu.com
 xuexi.cn
@@ -6419,6 +6442,7 @@ ydn.com.tw
 yeduge.com
 yeduji.com
 yeedao.org
+yehuowiki.com
 yeriben.com
 yesasia.com
 yesky.com
@@ -6574,11 +6598,13 @@ zhishidou.com
 zhishitiyu.com
 zhixin.com
 zhongchou.modian.com
+zhongkai.github.io
 zhouenlai.info
 zhswx.com
 zhuigeng.cc
 zi.media
 zichanpingu.com
+zidian.com.cn
 zihua.org.hk
 ziweixingming.com
 zixundingzhi.com
